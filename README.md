@@ -1,49 +1,41 @@
-# iso4217 - restfull services
+# ubigeo - restfull services
 
-Es un paquete que permite administrar datos de países segun el estandar iso4217.
+Es un paquete que permite administrar datos de países segun el estandar ubigeo.
 
-> Revisar iso4217 para mayor informacion.
+> Revisar ubigeo para mayor informacion.
 
 ### Resources
-* Currency ("/currency")
+* Departamentos ("/departamentos")
 
-| Method        | URL                                               | Descripcion                           |
-| :------------ |:--------------------------------------------------|:--------------------------------------|
-| GET           | "/currency/alphabeticCode/{alpha2Code}"           | Busca uno segun alphabeticCode        |
-| GET           | "/currency/numericCode/{numericCode}"             | Busca uno segun numericCode           |
-| POST          | "/currency"                                       | Crea uno                              |
-| PUT           | "/currency/alphabeticCode/{alphabeticCode}"       | Actualiza uno segun alphabeticCode    |
-| PUT           | "/currency/numericCode/{numericCode}"             | Actualiza uno segun numericCode       |
-| DELETE        | "/currency/alpha2Code/{alphabeticCode}"           | Elimina uno segun alphabeticCode      |
-| DELETE        | "/currency/alpha2Code/{numericCode}"              | Elimina uno segun numericCode         |
-| GET           | "/currency?filterText&firstResult&maxResults"     | Busca segun parametros                |
+| Method        | URL                                               				| Descripcion           |
+| :------------ |:------------------------------------------------------------------|:----------------------|
+| GET           | "/departamentos           | Devuelve todos los departamentos      |
+| GET           | "/departamentos/{codigo}/provincias"             					| Provincias           	|
+| GET           | "/departamentos//{codigoDep}/provincias/{codigoProv}/distritos"	| Distritos				|
 
 
-* Denomination ("/currency/{id}/denominations")
-
-| Method        | URL                                                   | Descripcion                           |
-| :------------ |:------------------------------------------------------|:--------------------------------------|
-| GET           | "/currency/alphabeticCode/{alpha2Code}/denominations" | Denominaciones segun alphabeticCode   |
-| GET           | "/currency/numericCode/{numericCode}/denominations"   | Denominaciones segun numericCode      |
-
-
-Los objetos Currency tienen la siguiente estructura:
+Los objetos Departamentos tienen la siguiente estructura:
 
 ```json
-"currency": {
-    "entity": "String",
-	"currency": "String",
-	"alphabeticCode": "String",
-	"numericCode": "String",
-	"minorUnit": "Integer"
+"departamento": {
+    "codigo": "String",
+	"denominacion": "String"
 }
 ```
 
-Los objetos Denomination tienen la siguiente estructura:
+```json
+"provincia": {
+    "codigo": "String",
+	"denominacion": "String",
+	"departamento": "String"
+}
+```
 
 ```json
-"denomination": {
-    "value": "BigDecimal"
+"distrito": {
+    "codigo": "String",
+	"denominacion": "String",
+	"provincia": "String"
 }
 ```
 

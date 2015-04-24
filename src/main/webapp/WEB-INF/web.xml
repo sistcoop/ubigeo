@@ -5,7 +5,7 @@
 	version="3.0">
 
 	<!-- keycloak aplication name -->
-	<module-name>iso4217</module-name>
+	<module-name>ubigeo</module-name>
 
 	<!-- java ee roles -->
 	<security-role>
