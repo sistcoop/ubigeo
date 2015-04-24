@@ -1,0 +1,5 @@
+dependencies {
+	compile project(':ubigeo-model:ubigeo-model-api')
+	compile project(':ubigeo-model:ubigeo-model-jpa')
+	compile project(':ubigeo-model:ubigeo-model-mongo')
+}
