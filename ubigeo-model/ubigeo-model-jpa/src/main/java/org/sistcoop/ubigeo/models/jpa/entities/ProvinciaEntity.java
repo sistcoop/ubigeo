@@ -25,7 +25,6 @@ import javax.xml.bind.annotation.XmlTransient;
 import org.hibernate.annotations.NamedQueries;
 import org.hibernate.annotations.NamedQuery;
 import org.hibernate.validator.constraints.NotBlank;
-import org.hibernate.validator.constraints.NotEmpty;
 
 @Entity
 @Table(name="PROVINCIA", indexes = { @Index(columnList = "id") })
@@ -39,7 +38,7 @@ public class ProvinciaEntity implements Serializable {
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public final static String base = "org.softgreen.sistcoop.ubigeo.ejb.models.jpa.entities.ProvinciaEntity";
+	public final static String base = "org.softgreen.sistcoop.ubigeo.ejb.models.jpa.entities.ProvinciaEntity.";
 	public final static String findByCodDepartamento = base + "findByCodDepartamento";
 	
 	private Integer id;
@@ -66,8 +65,7 @@ public class ProvinciaEntity implements Serializable {
 
 	@NotNull
 	@Size(min = 2, max = 2)
-	@NotBlank
-	@NotEmpty
+	@NotBlank	
 	public String getCodigo() {
 		return codigo;
 	}

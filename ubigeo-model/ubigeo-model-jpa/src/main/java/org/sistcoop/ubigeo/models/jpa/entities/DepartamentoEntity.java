@@ -22,7 +22,6 @@ import javax.xml.bind.annotation.XmlTransient;
 import org.hibernate.annotations.NamedQuery;
 import org.hibernate.annotations.NaturalId;
 import org.hibernate.validator.constraints.NotBlank;
-import org.hibernate.validator.constraints.NotEmpty;
 
 @Entity
 @Table(name="DEPARTAMENTO", indexes = { @Index(columnList = "id") })
@@ -36,7 +35,7 @@ public class DepartamentoEntity implements Serializable {
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public final static String base = "org.softgreen.sistcoop.ubigeo.ejb.models.jpa.entities.DepartamentoEntity";
+	public final static String base = "org.softgreen.sistcoop.ubigeo.ejb.models.jpa.entities.DepartamentoEntity.";
 	public final static String findAll = base + "findAll";
 	
 	private Integer id;
@@ -62,8 +61,7 @@ public class DepartamentoEntity implements Serializable {
 
 	@NotNull
 	@Size(min = 2, max = 2)
-	@NotBlank
-	@NotEmpty
+	@NotBlank	
 	@NaturalId
 	public String getCodigo() {
 		return codigo;
