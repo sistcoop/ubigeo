@@ -18,9 +18,9 @@ import org.hibernate.validator.constraints.NotBlank;
 @Table(name = "UBIGEO", indexes = { @Index(columnList = "ubigeo") })
 @NamedQuery(name = UbigeoEntity.findAll, query = "Select u from UbigeoEntity u")
 @NamedQueries({ 
-	@NamedQuery(name = UbigeoEntity.findAllDepartamentos, query = "SELECT u FROM UbigeoEntity u WHERE u.ubigeoProvincia = '00' AND u.ubigeoDistrito = '00' "),
-	@NamedQuery(name = UbigeoEntity.findAllProvincias, query = "SELECT u FROM UbigeoEntity u WHERE u.ubigeoDepartamento = :ubigeoDepartamento AND u.ubigeoProvincia != '00' AND u.ubigeoDistrito = '00' "),
-	@NamedQuery(name = UbigeoEntity.findAllDistritos, query = "SELECT u FROM UbigeoEntity u WHERE u.ubigeoDepartamento = :ubigeoDepartamento AND u.ubigeoProvincia = :ubigeoProvincia AND u.ubigeoDistrito != '00' ")})
+	@NamedQuery(name = UbigeoEntity.findAllDepartamentos, query = "SELECT u FROM UbigeoEntity u WHERE u.ubigeoProvincia = '00' AND u.ubigeoDistrito = '00' ORDER BY u.ubigeo"),
+	@NamedQuery(name = UbigeoEntity.findAllProvincias, query = "SELECT u FROM UbigeoEntity u WHERE u.ubigeoDepartamento = :ubigeoDepartamento AND u.ubigeoProvincia != '00' AND u.ubigeoDistrito = '00' ORDER BY u.ubigeo"),
+	@NamedQuery(name = UbigeoEntity.findAllDistritos, query = "SELECT u FROM UbigeoEntity u WHERE u.ubigeoDepartamento = :ubigeoDepartamento AND u.ubigeoProvincia = :ubigeoProvincia AND u.ubigeoDistrito != '00' ORDER BY u.ubigeo")})
 public class UbigeoEntity implements Serializable {
 
 	
