@@ -9,10 +9,10 @@ import org.sistcoop.ubigeo.provider.Provider;
 @Local
 public interface UbigeoProvider extends Provider {
 
-	public List<DepartamentoModel> getDepartamentos();
+	public List<UbigeoModel> getDepartamentos();
 
-	public List<ProvinciaModel> getProvincias(String codigoDepartamento);
+	public List<UbigeoModel> getProvincias(String codigoDepartamento);
 
-	public List<DistritoModel> getDistritos(String codigoDepartamento, String codigoProvincia);
+	public List<UbigeoModel> getDistritos(String codigoDepartamento, String codigoProvincia);
 
 }

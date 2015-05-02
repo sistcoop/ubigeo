@@ -9,9 +9,7 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import org.sistcoop.ubigeo.representations.idm.DepartamentoRepresentation;
-import org.sistcoop.ubigeo.representations.idm.DistritoRepresentation;
-import org.sistcoop.ubigeo.representations.idm.ProvinciaRepresentation;
+import org.sistcoop.ubigeo.representations.idm.UbigeoRepresentation;
 
 @Consumes(MediaType.APPLICATION_JSON)
 @Produces(MediaType.APPLICATION_JSON)
@@ -20,16 +18,16 @@ public interface UbigeoResource {
 
 	
 	@GET	
-	public List<DepartamentoRepresentation> findAll();
+	public List<UbigeoRepresentation> getDepartamentos();
 
 	@GET
 	@Path("/{codigo}/provincias")	
-	public List<ProvinciaRepresentation> getProvincias(
+	public List<UbigeoRepresentation> getProvincias(
 			@PathParam("codigo") String codigoDepartamento);
 
 	@GET
 	@Path("/{codigoDep}/provincias/{codigoProv}/distritos")	
-	public List<DistritoRepresentation> getDistritos(
+	public List<UbigeoRepresentation> getDistritos(
 			@PathParam("codigoDep") String codigoDepartamento, 
 			
 			@PathParam("codigoProv") String codigoProvincia);
