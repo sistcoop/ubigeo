@@ -1,7 +1,8 @@
 {
   "realm": "sistcoop-master",
-  "realm-public-key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnvvtVqgnebcD5AgZKkvltizZSWuse9UGfNEhHS5Reg7xF0lNoZ5arYIKXxc2/3buh3VgMnrPmy1s6UvzIfGp9GTVTWO3qQ4bSZInBYRpSpDs+DCDwRhPVCnxvH/JpSOzJAclnaihT5jSJTphAzVwUAxnAtiw7VEKjjvRHS2p3uQIDAQAB",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkwShv7JTfaaaSr+vprXQsaJ8ALfRVRVsqc/NAVvFGxXsHWPDnZqRYR+9F+hZx8bsMFCo7gL6olXtf6iy3MbLgA667CAO/ZIuvktCGuzCv+wubpjJWhrj+5Xgl0GQDgmBeByU6xaz67NAVz8ydGZyTYFlKGJY6AxHC+VaF5v/Th7bCA5HPd8ms6mPEKNOV7yXvS96FztHegkg2/aTezWdi4FKgOXl9ceAWfaUY38FPVMRh/T3laeT00No3nay3rxsDeazvbEvr7MG/EfR9T47PLswnKZvp3DZ0jafgPOg8VsWWEkzSMILW3O1B+4TnCDDMjsEylROwaLli7HiJgA4oQIDAQAB",
   "bearer-only": true,
+  "auth-server-url": "http://localhost:8080/auth",
   "ssl-required": "external",
   "resource": "ubigeo",
   "use-resource-role-mappings": true,
