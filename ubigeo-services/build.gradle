@@ -2,4 +2,6 @@ dependencies {
 	compile project(':ubigeo-integration:ubigeo-client')
 	compile project(':ubigeo-model:ubigeo-model-api')
 	compile project(':ubigeo-model:ubigeo-model-jpa')	
+	
+	compile 'org.jboss.ejb3:jboss-ejb3-ext-api:2.1.0'
 }
