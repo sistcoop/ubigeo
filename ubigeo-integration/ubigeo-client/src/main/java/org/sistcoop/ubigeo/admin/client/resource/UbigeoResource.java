@@ -12,12 +12,12 @@ import javax.ws.rs.core.MediaType;
 
 import org.sistcoop.ubigeo.representations.idm.UbigeoRepresentation;
 
-public interface DepartamentoResource {
+public interface UbigeoResource {
 
     /**
-     * Obtener un Currency segun id.
+     * Obtener un Ubigeo segun codigo.
      * 
-     * @summary Obtener Currency
+     * @summary Obtener Ubigeo
      * @statuscode 200 Si el objeto fue encontrado.
      * @return CountryCodeRepresentation encontrado.
      * @throws EJBException
@@ -25,12 +25,12 @@ public interface DepartamentoResource {
      */
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    public UbigeoRepresentation departamento();
+    public UbigeoRepresentation ubigeo();
 
     /**
-     * Actualizar Currency segun los datos enviados.
+     * Actualizar Ubigeo segun los datos enviados.
      * 
-     * @summary Actualizar Currency
+     * @summary Actualizar Ubigeo
      * @param representation
      *            Datos nuevos del objeto.
      * @statuscode 200 Si el objeto fue actualizado satisfactoriamente.
@@ -42,9 +42,9 @@ public interface DepartamentoResource {
     public void update(UbigeoRepresentation representation);
 
     /**
-     * Deshabilitar el Currency.
+     * Deshabilitar el Ubigeo.
      * 
-     * @summary Deshabilitar Currency
+     * @summary Deshabilitar Ubigeo
      * @statuscode 200 Si el objeto fue desactivado satisfactoriamente.
      * @throws EJBException
      *             datos validos pero ocurrio un error interno.
@@ -54,9 +54,9 @@ public interface DepartamentoResource {
     public void disable();
 
     /**
-     * Eliminar el Currency.
+     * Eliminar el Ubigeo.
      * 
-     * @summary Eliminar CountryCode
+     * @summary Eliminar Ubigeo
      * @statuscode 200 Si el objeto fue elimado satisfactoriamente.
      * @throws EJBException
      *             datos validos pero ocurrio un error interno.

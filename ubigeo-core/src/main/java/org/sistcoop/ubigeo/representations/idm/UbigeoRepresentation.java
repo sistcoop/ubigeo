@@ -3,56 +3,54 @@ package org.sistcoop.ubigeo.representations.idm;
 import java.io.Serializable;
 
 public class UbigeoRepresentation implements Serializable {
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
 
-	private String ubigeo;
-	private String denominacion;
+    private static final long serialVersionUID = 1L;
 
-	private String ubigeoDepartamento;
-	private String ubigeoProvincia;
-	private String ubigeoDistrito;
+    private String ubigeo;
+    private String denominacion;
 
-	public String getUbigeo() {
-		return ubigeo;
-	}
+    private String ubigeoDepartamento;
+    private String ubigeoProvincia;
+    private String ubigeoDistrito;
 
-	public void setUbigeo(String ubigeo) {
-		this.ubigeo = ubigeo;
-	}
+    public String getUbigeo() {
+        return ubigeo;
+    }
 
-	public String getDenominacion() {
-		return denominacion;
-	}
+    public void setUbigeo(String ubigeo) {
+        this.ubigeo = ubigeo;
+    }
 
-	public void setDenominacion(String denominacion) {
-		this.denominacion = denominacion;
-	}
+    public String getDenominacion() {
+        return denominacion;
+    }
 
-	public String getUbigeoDepartamento() {
-		return ubigeoDepartamento;
-	}
+    public void setDenominacion(String denominacion) {
+        this.denominacion = denominacion;
+    }
 
-	public void setUbigeoDepartamento(String ubigeoDepartamento) {
-		this.ubigeoDepartamento = ubigeoDepartamento;
-	}
+    public String getUbigeoDepartamento() {
+        return ubigeoDepartamento;
+    }
 
-	public String getUbigeoProvincia() {
-		return ubigeoProvincia;
-	}
+    public void setUbigeoDepartamento(String ubigeoDepartamento) {
+        this.ubigeoDepartamento = ubigeoDepartamento;
+    }
 
-	public void setUbigeoProvincia(String ubigeoProvincia) {
-		this.ubigeoProvincia = ubigeoProvincia;
-	}
+    public String getUbigeoProvincia() {
+        return ubigeoProvincia;
+    }
 
-	public String getUbigeoDistrito() {
-		return ubigeoDistrito;
-	}
+    public void setUbigeoProvincia(String ubigeoProvincia) {
+        this.ubigeoProvincia = ubigeoProvincia;
+    }
 
-	public void setUbigeoDistrito(String ubigeoDistrito) {
-		this.ubigeoDistrito = ubigeoDistrito;
-	}
+    public String getUbigeoDistrito() {
+        return ubigeoDistrito;
+    }
+
+    public void setUbigeoDistrito(String ubigeoDistrito) {
+        this.ubigeoDistrito = ubigeoDistrito;
+    }
 
 }

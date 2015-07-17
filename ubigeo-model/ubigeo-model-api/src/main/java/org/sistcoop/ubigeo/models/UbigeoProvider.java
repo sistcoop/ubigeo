@@ -1,18 +1,25 @@
 package org.sistcoop.ubigeo.models;
 
-import java.util.List;
-
 import javax.ejb.Local;
 
+import org.sistcoop.ubigeo.models.search.SearchCriteriaModel;
+import org.sistcoop.ubigeo.models.search.SearchResultsModel;
 import org.sistcoop.ubigeo.provider.Provider;
 
 @Local
 public interface UbigeoProvider extends Provider {
 
-	public List<UbigeoModel> getDepartamentos();
+    UbigeoModel findByUbigeo(String ubigeo);
 
-	public List<UbigeoModel> getProvincias(String codigoDepartamento);
+    UbigeoModel create(String ubigeoDepartamento, String ubigeoProvincia, String ubigeoDistrito,
+            String denominacion);
 
-	public List<UbigeoModel> getDistritos(String codigoDepartamento, String codigoProvincia);
+    boolean remove(UbigeoModel UbigeoModel);
+
+    SearchResultsModel<UbigeoModel> search();
+
+    SearchResultsModel<UbigeoModel> search(SearchCriteriaModel criteria);
+
+    SearchResultsModel<UbigeoModel> search(SearchCriteriaModel criteria, String filterText);
 
 }

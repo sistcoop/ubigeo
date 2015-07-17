@@ -21,16 +21,16 @@ import org.sistcoop.ubigeo.representations.idm.search.SearchResultsRepresentatio
 public interface UbigeosResource {
 
     /**
-     * @param currency
-     *            Id del Departamento.
+     * @param ubigeo
+     *            codigode ubigeo.
      */
     @Path("/{ubigeo}")
-    public DepartamentoResource currency(@PathParam("departamento") String departamento);
+    public UbigeoResource ubigeo(@PathParam("ubigeo") String ubigeo);
 
     /**
-     * Crea un Currency segun los datos enviados
+     * Crea un Ubigeo con los datos enviados.
      * 
-     * @summary Crea un Departamento
+     * @summary Crea un Ubigeo
      * @param representation
      *            El detalle del objeto a enviar.
      * @statuscode 201 Si el objeto fue creado satisfactoriamente.
@@ -43,9 +43,9 @@ public interface UbigeosResource {
     public Response create(UbigeoRepresentation representation);
 
     /**
-     * Buscar Currency segun los parametros enviados.
+     * Buscar ubigeos segun los parametros enviados.
      * 
-     * @summary Buscar uno o varios Currency
+     * @summary Buscar Ubigeos
      * @param filterText
      *            Palabra filtro.
      * @param page
@@ -65,9 +65,9 @@ public interface UbigeosResource {
             @QueryParam("pageSize") @DefaultValue("20") int pageSize);
 
     /**
-     * Buscar Currency segun los parametros enviados.
+     * Buscar ubigeos segun el ubigeo padre.
      * 
-     * @summary Buscar todos los CountryCode
+     * @summary Buscar ubigeos
      * @statuscode 200 Si la busqueda fue exitosa.
      * @return SearchResultsRepresentation resultado de busqueda.
      * @throws EJBException
@@ -75,6 +75,6 @@ public interface UbigeosResource {
      */
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    public SearchResultsRepresentation<UbigeoRepresentation> search();
+    public SearchResultsRepresentation<UbigeoRepresentation> search(@QueryParam("ubigeo") String ubigeo);
 
 }
