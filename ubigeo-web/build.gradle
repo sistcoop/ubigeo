@@ -1,0 +1,37 @@
+apply plugin: 'war'
+apply plugin: 'jetty'
+//apply from: "$rootDir/gradle/functionalTest.gradle"
+apply from: "$rootDir/gradle/publishWarMaven.gradle"
+apply from: "$rootDir/gradle/cargo.gradle"
+//apply from: "$rootDir/gradle/smokeTest.gradle"
+
+dependencies {
+    compile project(":ubigeo-core")
+    compile project(":ubigeo-core-jaxrs")
+    compile project(":ubigeo-integration:ubigeo-client")
+    compile project(":ubigeo-services")
+    compile project(":ubigeo-model:ubigeo-model-api")
+    compile project(":ubigeo-model:ubigeo-model-jpa")
+}
+
+task createBuildInfoFile << {
+    def buildInfoFile = new File("$buildDir/build-info.properties")
+    Properties props = new Properties()
+    props.setProperty('version', project.version.toString())
+    props.setProperty('timestamp', project.buildTimestamp)
+    props.store(buildInfoFile.newWriter(), null)
+}
+
+war {
+    dependsOn createBuildInfoFile
+    baseName = 'ubigeo'
+
+    from(buildDir) {
+        include 'build-info.properties'
+        into('WEB-INF/classes')
+    }
+}
+
+jettyRun {
+    contextPath = 'ubigeo'
+}

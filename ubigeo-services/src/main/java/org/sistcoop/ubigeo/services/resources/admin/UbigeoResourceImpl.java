@@ -10,7 +10,7 @@ import javax.ws.rs.PathParam;
 
 import org.jboss.ejb3.annotation.SecurityDomain;
 import org.sistcoop.ubigeo.admin.client.Roles;
-import org.sistcoop.ubigeo.admin.client.resource.UbigeoResource;
+import org.sistcoop.ubigeo.admin.client.resource.UbigeosResource;
 import org.sistcoop.ubigeo.models.UbigeoModel;
 import org.sistcoop.ubigeo.models.UbigeoProvider;
 import org.sistcoop.ubigeo.models.utils.ModelToRepresentation;
@@ -18,7 +18,7 @@ import org.sistcoop.ubigeo.representations.idm.UbigeoRepresentation;
 
 @Stateless
 @SecurityDomain("keycloak")
-public class UbigeoResourceImpl implements UbigeoResource {
+public class UbigeoResourceImpl implements UbigeosResource {
 
 	@Inject
 	protected UbigeoProvider ubigeoProvider;
