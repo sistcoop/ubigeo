@@ -12,8 +12,8 @@ public class UbigeoAdapter implements UbigeoModel {
 	 */
     private static final long serialVersionUID = 1L;
 
-    protected UbigeoEntity ubigeoEntity;
-    protected EntityManager em;
+    private UbigeoEntity ubigeoEntity;
+    private EntityManager em;
 
     public UbigeoAdapter(EntityManager em, UbigeoEntity ubigeoEntity) {
         this.em = em;

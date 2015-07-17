@@ -27,8 +27,8 @@ public class UbigeoProviderTest extends AbstractTest {
     }
 
     @Test
-    public void findByUbigeo() {
-        UbigeoModel model1 = ubigeoProvider.create("05", "01", "01", "Ayacucho");
+    public void finByUbigeo() {
+        UbigeoModel model1 = ubigeoProvider.create("05", "01", "05", "Ayacucho");
 
         String ubigeo = model1.getUbigeo();
 
@@ -38,9 +38,9 @@ public class UbigeoProviderTest extends AbstractTest {
     }
 
     @Test
-    public void getCurrencies() {
+    public void search() {
         @SuppressWarnings("unused")
-        UbigeoModel model1 = ubigeoProvider.create("05", "01", "01", "Ayacucho");
+        UbigeoModel model1 = ubigeoProvider.create("08", "01", "01", "Ayacucho");
 
         SearchResultsModel<UbigeoModel> results = ubigeoProvider.search();
         for (UbigeoModel model : results.getModels()) {
@@ -53,7 +53,7 @@ public class UbigeoProviderTest extends AbstractTest {
 
     @Test
     public void remove() {
-        UbigeoModel model1 = ubigeoProvider.create("05", "01", "01", "Ayacucho");
+        UbigeoModel model1 = ubigeoProvider.create("04", "01", "01", "Ayacucho");
 
         String ubigeo = model1.getUbigeo();
         boolean result = ubigeoProvider.remove(model1);
