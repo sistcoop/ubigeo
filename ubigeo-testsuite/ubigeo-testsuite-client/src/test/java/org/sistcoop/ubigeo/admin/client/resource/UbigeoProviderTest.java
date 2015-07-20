@@ -22,10 +22,10 @@ public class UbigeoProviderTest extends AbstractTest {
     @Test
     public void create() {
         UbigeoRepresentation rep = new UbigeoRepresentation();
-        rep.setDenominacion("Ayacucho");
+        rep.setDenominacion("Lima");
         rep.setUbigeoDepartamento("01");
         rep.setUbigeoProvincia("01");
-        rep.setUbigeoDistrito("03");
+        rep.setUbigeoDistrito("01");
 
         UbigeoRepresentation repCreated = given().contentType(ContentType.JSON).body(rep).log().everything()
                 .expect().statusCode(201).log().ifError().when().post(baseURI).as(UbigeoRepresentation.class);
@@ -38,14 +38,14 @@ public class UbigeoProviderTest extends AbstractTest {
     public void search() {
         UbigeoRepresentation rep1 = new UbigeoRepresentation();
         rep1.setDenominacion("Ayacucho");
-        rep1.setUbigeoDepartamento("01");
-        rep1.setUbigeoProvincia("01");
-        rep1.setUbigeoDistrito("03");
+        rep1.setUbigeoDepartamento("02");
+        rep1.setUbigeoProvincia("02");
+        rep1.setUbigeoDistrito("02");
 
         UbigeoRepresentation rep2 = new UbigeoRepresentation();
-        rep2.setDenominacion("Lima");
-        rep2.setUbigeoDepartamento("05");
-        rep2.setUbigeoProvincia("01");
+        rep2.setDenominacion("Huancayo");
+        rep2.setUbigeoDepartamento("03");
+        rep2.setUbigeoProvincia("03");
         rep2.setUbigeoDistrito("03");
 
         @SuppressWarnings("unused")

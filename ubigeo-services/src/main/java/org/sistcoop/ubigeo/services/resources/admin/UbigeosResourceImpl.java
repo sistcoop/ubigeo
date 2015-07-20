@@ -81,21 +81,23 @@ public class UbigeosResourceImpl implements UbigeosResource {
         SearchCriteriaModel searchCriteriaBean = new SearchCriteriaModel();
         searchCriteriaBean.addOrder(filterProvider.getUbigeoFilter(), true);
 
-        if (ubigeo.length() == 2) {
-            searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(), ubigeo,
-                    SearchCriteriaFilterOperator.eq);
-        } else if (ubigeo.length() == 4) {
-            searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(),
-                    ubigeo.substring(0, 2), SearchCriteriaFilterOperator.eq);
-            searchCriteriaBean.addFilter(filterProvider.getUbigeoProvinciaFilter(), ubigeo.substring(2, 4),
-                    SearchCriteriaFilterOperator.eq);
-        } else if (ubigeo.length() == 6) {
-            searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(),
-                    ubigeo.substring(0, 2), SearchCriteriaFilterOperator.eq);
-            searchCriteriaBean.addFilter(filterProvider.getUbigeoProvinciaFilter(), ubigeo.substring(2, 4),
-                    SearchCriteriaFilterOperator.eq);
-            searchCriteriaBean.addFilter(filterProvider.getUbigeoDistritoFilter(), ubigeo.substring(4, 6),
-                    SearchCriteriaFilterOperator.eq);
+        if (ubigeo != null) {
+            if (ubigeo.length() == 2) {
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(), ubigeo,
+                        SearchCriteriaFilterOperator.eq);
+            } else if (ubigeo.length() == 4) {
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(),
+                        ubigeo.substring(0, 2), SearchCriteriaFilterOperator.eq);
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoProvinciaFilter(),
+                        ubigeo.substring(2, 4), SearchCriteriaFilterOperator.eq);
+            } else if (ubigeo.length() == 6) {
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(),
+                        ubigeo.substring(0, 2), SearchCriteriaFilterOperator.eq);
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoProvinciaFilter(),
+                        ubigeo.substring(2, 4), SearchCriteriaFilterOperator.eq);
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoDistritoFilter(),
+                        ubigeo.substring(4, 6), SearchCriteriaFilterOperator.eq);
+            }
         }
 
         // search

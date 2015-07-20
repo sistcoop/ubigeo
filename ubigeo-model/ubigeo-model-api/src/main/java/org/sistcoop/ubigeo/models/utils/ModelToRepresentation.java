@@ -8,6 +8,7 @@ public class ModelToRepresentation {
 	public static UbigeoRepresentation toRepresentation(UbigeoModel model) {
 		if (model == null)
 			return null;
+		
 		UbigeoRepresentation rep = new UbigeoRepresentation();
 
 		rep.setUbigeo(model.getUbigeo());

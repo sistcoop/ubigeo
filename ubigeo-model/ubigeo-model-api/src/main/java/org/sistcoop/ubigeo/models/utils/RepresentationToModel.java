@@ -10,8 +10,10 @@ import org.sistcoop.ubigeo.representations.idm.UbigeoRepresentation;
 public class RepresentationToModel {
 
     public UbigeoModel createUbigeo(UbigeoRepresentation representation, UbigeoProvider ubigeoProvider) {
-        // TODO Auto-generated method stub
-        return null;
+        UbigeoModel model = ubigeoProvider.create(representation.getUbigeoDepartamento(),
+                representation.getUbigeoProvincia(), representation.getUbigeoDistrito(),
+                representation.getDenominacion());
+        return model;
     }
 
 }

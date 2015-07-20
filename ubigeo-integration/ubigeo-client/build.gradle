@@ -1,3 +1,5 @@
+apply from: "$rootDir/gradle/miredot.gradle"
+
 dependencies {
 	compile project(':ubigeo-core')
 	compile project(':ubigeo-core-jaxrs')		
