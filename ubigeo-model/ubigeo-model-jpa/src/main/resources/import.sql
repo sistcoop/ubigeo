@@ -16,2027 +16,2027 @@
 --
 
 -- You can use this file to load seed data into the database using SQL statements
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200310', 'USICAYOS', '20', '03', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200411', 'ZEPITA', '20', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200510', 'VILQUE CHICO', '20', '05', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200610', 'VILAVILA', '20', '06', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210310', 'SAN ROQUE DE CUMBAZA', '21', '03', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210312', 'SHANAO', '21', '03', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210314', 'TABALOSOS', '21', '03', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210315', 'ZAPATERO', '21', '03', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210610', 'MORALES', '21', '06', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210611', 'PAPAPLAYA', '21', '06', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210612', 'SAN ANTONIO', '21', '06', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210613', 'SAUCE', '21', '06', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210614', 'SHAPAJA', '21', '06', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210910', 'TRES UNIDOS', '21', '09', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100110', 'SAN JUAN BAUTISTA.', '10', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100111', 'SANTIAGO.', '10', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100112', 'SUBTANJALLA', '10', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100113', 'TATE', '10', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100114', 'YAUCA DEL ROSARIO', '10', '01', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100210', 'SUNAMPE', '10', '02', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100211', 'TAMBO DE MORA', '10', '02', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110110', 'EL TAMBO', '11', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110111', 'HUACRAPUQUIO', '11', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110112', 'HUALHUAS', '11', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110113', 'HUANCAN', '11', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110114', 'HUASICANCHA', '11', '01', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110115', 'HUAYUCACHI', '11', '01', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110116', 'INGENIO', '11', '01', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110117', 'PARIAHUANCA.', '11', '01', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110118', 'PILCOMAYO', '11', '01', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110119', 'PUCARA.', '11', '01', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110120', 'QUICHUAY', '11', '01', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110121', 'QUILCAS', '11', '01', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110122', 'SAN AGUSTIN', '11', '01', '22')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110123', 'SAN JERONIMO DE TUNAN', '11', '01', '23')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110124', 'SANO', '11', '01', '24')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110125', 'SAPALLANGA', '11', '01', '25')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110126', 'SICAYA', '11', '01', '26')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110127', 'STO DOMINGO DE ACOBAMBA', '11', '01', '27')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110128', 'VIQUES', '11', '01', '28')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110210', 'MATAHUASI', '11', '02', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110211', 'MITO', '11', '02', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110212', 'NUEVE DE JULIO', '11', '02', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110213', 'ORCOTUNA', '11', '02', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110214', 'SAN JOSE DE QUERO', '11', '02', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110215', 'SANTA ROSA DE OCOPA', '11', '02', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110310', 'HUERTAS', '11', '03', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110311', 'JANJAILLO', '11', '03', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110312', 'JULCAN', '11', '03', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110313', 'LEONOR ORDONEZ', '11', '03', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110314', 'LLOCLLAPAMPA', '11', '03', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110315', 'MARCO', '11', '03', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110316', 'MASMA', '11', '03', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110317', 'MASMA CHICCHE', '11', '03', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110318', 'MOLINOS', '11', '03', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110319', 'MONOBAMBA', '11', '03', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110320', 'MUQUI', '11', '03', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110321', 'MUQUIYAUYO', '11', '03', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110322', 'PACA', '11', '03', '22')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110323', 'PACCHA.', '11', '03', '23')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110324', 'PANCAN', '11', '03', '24')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110325', 'PARCO', '11', '03', '25')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110326', 'POMACANCHA', '11', '03', '26')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110327', 'RICRAN', '11', '03', '27')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110328', 'SAN LORENZO', '11', '03', '28')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110329', 'SAN PEDRO DE CHUNAN', '11', '03', '29')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110330', 'SAUSA', '11', '03', '30')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110331', 'SINCOS', '11', '03', '31')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110332', 'TUNAN MARCA', '11', '03', '32')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110333', 'YAULI.', '11', '03', '33')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110334', 'YAUYOS', '11', '03', '34')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110710', 'YAULI', '11', '07', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120110', 'SIMBAL', '12', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120111', 'VICTOR LARCO HERRERA', '12', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120112', 'VISTA ALEGRE..', '12', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120410', 'PARANDAY', '12', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120411', 'SALPO', '12', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120413', 'SINSICAP', '12', '04', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120414', 'USQUIL', '12', '04', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120610', 'PIAS', '12', '06', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120611', 'SANTIAGO DE CHALLAS', '12', '06', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120612', 'TAURIJA', '12', '06', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120613', 'URPAY', '12', '06', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130110', 'OYOTUN', '13', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130111', 'PICSI', '13', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130112', 'PIMENTEL', '13', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130113', 'REQUE', '13', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130114', 'SANA', '13', '01', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130115', 'SANTA ROSA', '13', '01', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130210', 'SALAS.', '13', '02', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130211', 'SAN JOSE.', '13', '02', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130212', 'TUCUME', '13', '02', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140110', 'EL AGUSTINO', '14', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140111', 'JESUS MARIA', '14', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140112', 'LA MOLINA', '14', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140113', 'LA VICTORIA.', '14', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140114', 'LINCE', '14', '01', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140115', 'LURIGANCHO', '14', '01', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140116', 'LURIN', '14', '01', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140117', 'MAGDALENA DEL MAR', '14', '01', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140118', 'MIRAFLORES', '14', '01', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140119', 'PACHACAMAC', '14', '01', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140120', 'PUCUSANA', '14', '01', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140121', 'PUEBLO LIBRE.', '14', '01', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140122', 'PUENTE PIEDRA', '14', '01', '22')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140123', 'PUNTA NEGRA', '14', '01', '23')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140124', 'PUNTA HERMOSA', '14', '01', '24')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140125', 'RIMAC', '14', '01', '25')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140126', 'SAN BARTOLO', '14', '01', '26')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140127', 'SAN ISIDRO.', '14', '01', '27')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140128', 'INDEPENDENCIA', '14', '01', '28')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140129', 'SAN JUAN DE MIRAFLORES', '14', '01', '29')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140130', 'SAN LUIS', '14', '01', '30')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140131', 'SAN MARTIN DE PORRES', '14', '01', '31')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140132', 'SAN MIGUEL..', '14', '01', '32')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140133', 'SANTIAGO DE SURCO', '14', '01', '33')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140134', 'SURQUILLO', '14', '01', '34')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140135', 'VILLA MARIA DEL TRIUNFO', '14', '01', '35')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140136', 'SAN JUAN DE LURIGANCHO', '14', '01', '36')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140137', 'SANTA MARIA DEL MAR', '14', '01', '37')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140138', 'SANTA ROSA', '14', '01', '38')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140140', 'CIENEGUILLA', '14', '01', '40')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140141', 'SAN BORJA', '14', '01', '41')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140142', 'VILLA EL SALVADOR', '14', '01', '42')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140143', 'LOS OLIVOS', '14', '01', '43')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140173', 'SANTA ANITA', '14', '01', '73')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140410', 'NUEVO IMPERIAL', '14', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140411', 'PACARAN', '14', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140412', 'QUILMANA', '14', '04', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140413', 'SAN ANTONIO.', '14', '04', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140414', 'SAN LUIS', '14', '04', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140415', 'SANTA CRUZ DE FLORES', '14', '04', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140416', 'ZUNIGA', '14', '04', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140510', 'SANTA MARIA', '14', '05', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140511', 'SAYAN', '14', '05', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140512', 'VEGUETA', '14', '05', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140610', 'HUANZA', '14', '06', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140611', 'LAHUAYTAMBO', '14', '06', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140612', 'LANGA', '14', '06', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140613', 'LARAOS', '14', '06', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140614', 'MARIATANA', '14', '06', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140615', 'RICARDO PALMA', '14', '06', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140616', 'SAN ANDRES DE TUPICOCHA', '14', '06', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140617', 'SAN ANTONIO', '14', '06', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140618', 'SAN BARTOLOME', '14', '06', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140619', 'SAN DAMIAN', '14', '06', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140620', 'SAN JUAN DE IRIS', '14', '06', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140621', 'SAN JUAN DE TANTARANCHE', '14', '06', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140622', 'SAN LORENZO DE QUINTI', '14', '06', '22')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140623', 'SAN MATEO', '14', '06', '23')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140624', 'SAN MATEO DE OTAO', '14', '06', '24')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140625', 'SAN PEDRO DE CASTA', '14', '06', '25')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140626', 'SAN PEDRO DE HUANCAYRE', '14', '06', '26')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140627', 'SANGALLAYA', '14', '06', '27')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140628', 'SANTA CRUZ DE COCACHACRA', '14', '06', '28')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140629', 'SANTIAGO DE ANCHUCAYA', '14', '06', '29')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140630', 'SANTIAGO DE TUNA', '14', '06', '30')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140631', 'SANTO DGO DE LOS OLLEROS', '14', '06', '31')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140632', 'SURCO', '14', '06', '32')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010101', 'HUAMANGA', '01', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140710', 'COCHAS', '14', '07', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140711', 'COLONIA', '14', '07', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140712', 'HONGOS', '14', '07', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140713', 'HUAMPARA', '14', '07', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140714', 'HUANCAYA', '14', '07', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140715', 'HUANEC', '14', '07', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140716', 'HUANGASCAR', '14', '07', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140717', 'HUANTAN', '14', '07', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140718', 'LARAOS.', '14', '07', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140719', 'LINCHA', '14', '07', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140720', 'MADEAN', '14', '07', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140721', 'MIRAFLORES', '14', '07', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140722', 'OMAS', '14', '07', '22')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140723', 'PUTINZA', '14', '07', '23')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140724', 'QUINCHES', '14', '07', '24')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140725', 'QUINOCAY', '14', '07', '25')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140726', 'SAN JOAQUIN', '14', '07', '26')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140727', 'SAN PEDRO DE PILAS', '14', '07', '27')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140728', 'TANTA', '14', '07', '28')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140729', 'TAURIPAMPA', '14', '07', '29')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140730', 'TOMAS', '14', '07', '30')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140731', 'TUPE', '14', '07', '31')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140732', 'VINAC', '14', '07', '32')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140733', 'VITIS', '14', '07', '33')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140810', 'SANTA CRUZ DE ANDAMARCA', '14', '08', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140811', 'SUMBILCA', '14', '08', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140812', 'VEINTISIETE DE NOVIEMBRE', '14', '08', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150110', 'TORRES CAUSANA', '15', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150111', 'YAQUERANA', '15', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150210', 'SANTA CRUZ', '15', '02', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150211', 'TNTE CESAR LOPEZ ROJAS', '15', '02', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150410', 'PARINARI', '15', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150411', 'TIGRE', '15', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150412', 'TROMPETEROS', '15', '04', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150413', 'URARINAS', '15', '04', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150510', 'JENARO HERRERA', '15', '05', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170210', 'UBINAS', '17', '02', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170211', 'YUNGA', '17', '02', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180110', 'TICLACAYAN', '18', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180111', 'TINYAHUARCO', '18', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180112', 'VICCO', '18', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180113', 'YANACANCHA.', '18', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190210', 'SUYO', '19', '02', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190410', 'YAMANGO', '19', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200210', 'SAMAN', '20', '02', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200211', 'SAN ANTON', '20', '02', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200212', 'SAN JOSE', '20', '02', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200213', 'SAN JUAN DE SALINAS', '20', '02', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200214', 'SANTIAGO DE PUPUJA', '20', '02', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200215', 'TIRAPATA', '20', '02', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200110', 'PAUCARCOLLA', '20', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200111', 'PICHACANI', '20', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200112', 'PLATERIA', '20', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200113', 'SAN ANTONIO', '20', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200114', 'TIQUILLACA', '20', '01', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200115', 'VILQUE', '20', '01', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080110', 'MANTA', '08', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080111', 'MARISCAL CACERES.', '08', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080112', 'MOYA', '08', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080113', 'NUEVO OCCORO', '08', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080114', 'PALCA', '08', '01', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080115', 'PILCHACA', '08', '01', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080116', 'VILCA', '08', '01', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080117', 'YAULI', '08', '01', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080310', 'SAN ANTONIO DE ANTAPARCO', '08', '03', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080311', 'SANTO TOMAS DE PATA', '08', '03', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080312', 'SECCLLA', '08', '03', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080410', 'NAHUIMPUQUIO', '08', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080411', 'PAZOS', '08', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080412', 'PACHAMARCA', '08', '04', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080413', 'QUISHUAR', '08', '04', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080414', 'SALCABAMBA', '08', '04', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080415', 'SALCAHUASI', '08', '04', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080416', 'SAN MARCOS DE ROCCHAC', '08', '04', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080417', 'SURCUBAMBA', '08', '04', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080418', 'TINTAY PUNCU', '08', '04', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080510', 'SAN JUAN', '08', '05', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080511', 'SANTA ANA', '08', '05', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080512', 'TANTARA', '08', '05', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080513', 'TICRAPO', '08', '05', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080610', 'SAN PEDRO DE CORIS', '08', '06', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080710', 'SAN ANTONIO DE CUSICANCHA', '08', '07', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080711', 'SAN FCO DE SANGAYAICO', '08', '07', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200204', 'ASILLO', '20', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200205', 'CAMINACA.', '20', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200206', 'CHUPA', '20', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200207', 'JOSE DMGO CHOQUEHUANCA', '20', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200208', 'MUNANI', '20', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200209', 'POTONI', '20', '02', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200300', 'CARABAYA', '20', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200301', 'MACUSANI', '20', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200302', 'AJOYANI', '20', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190609', 'BUENOS AIRES.', '19', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190700', 'TALARA', '19', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190701', 'PARINAS', '19', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190702', 'EL ALTO', '19', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190703', 'LA BREA', '19', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201300', 'MELGAR', '20', '13', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201301', 'AYAVIRI.', '20', '13', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201302', 'ANTAUTA', '20', '13', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201303', 'CUPI', '20', '13', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201304', 'LLALLI', '20', '13', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201305', 'MACARI', '20', '13', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201306', 'NUNOA', '20', '13', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201307', 'ORURILLO', '20', '13', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201308', 'SANTA ROSA', '20', '13', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201309', 'UMACHIRI', '20', '13', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201400', 'SAN ANTONIO DE PUTINA', '20', '14', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201401', 'PUTINA', '20', '14', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201402', 'ANANEA', '20', '14', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201403', 'PEDRO VILCA APAZA', '20', '14', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201404', 'QUILCAPUNCU', '20', '14', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201405', 'SINA', '20', '14', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201500', 'YUNGUYO', '20', '15', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201501', 'YUNGUYO', '20', '15', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201502', 'ANAPIA', '20', '15', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201503', 'COPANI', '20', '15', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201504', 'CUTURAPI', '20', '15', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201505', 'OLLARAYA', '20', '15', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201506', 'TINICACHI', '20', '15', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201507', 'UNICACHI', '20', '15', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201600', 'EL COLLAO', '20', '16', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201601', 'ILAVE', '20', '16', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201602', 'CAPASO.', '20', '16', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201603', 'PILCUYO', '20', '16', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201604', 'SANTA ROSA', '20', '16', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201605', 'CONDURIRI', '20', '16', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201700', 'MOHO.', '20', '17', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201701', 'MOHO.', '20', '17', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201702', 'CONIMA', '20', '17', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201703', 'HUAYRAPATA', '20', '17', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('201704', 'TILALI', '20', '17', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211000', 'EL DORADO', '21', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211001', 'EL DORADO', '21', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211002', 'SAN JOSE DE SISA', '21', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211003', 'AGUA BLANCA', '21', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211004', 'SAN MARTIN', '21', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211005', 'SANTA ROSA', '21', '10', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211006', 'SHATOJA', '21', '10', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211100', 'TOCACHE', '21', '11', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211101', 'TOCACHE', '21', '11', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211102', 'NUEVO PROGRESO', '21', '11', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211103', 'POLVORA', '21', '11', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211104', 'SHUNTE', '21', '11', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('211105', 'UCHIZA', '21', '11', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220000', 'TACNA', '22', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220100', 'TACNA', '22', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220101', 'TACNA', '22', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220102', 'ALTO DE LA ALIANZA', '22', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220103', 'CALANA', '22', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220104', 'INCLAN', '22', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220105', 'PACHIA', '22', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220106', 'PALCA', '22', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220107', 'POCOLLAY', '22', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220108', 'SAMA', '22', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220109', 'CIUDAD NUEVA', '22', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220200', 'TARATA', '22', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220201', 'TARATA', '22', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220202', 'CHUCATAMANI', '22', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220203', 'ESTIQUE', '22', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220204', 'ESTIQUE-PAMPA', '22', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220205', 'SITAJARA', '22', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220206', 'SUSAPAYA', '22', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220207', 'TARUCACHI', '22', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220208', 'TICACO', '22', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220300', 'CANDARAVE', '22', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220301', 'CANDARAVE', '22', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220302', 'CAIRANI', '22', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220303', 'CAMILACA', '22', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220304', 'CURIBAYA', '22', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220305', 'HUANUARA', '22', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220306', 'QUILAHUANI', '22', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220400', 'JORGE BASADRE', '22', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220401', 'LOCUMBA', '22', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111000', 'CHUPACA', '11', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111001', 'CHUPACA', '11', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111002', 'AHUAC', '11', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111003', 'CHONGOS BAJO', '11', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111004', 'HUACHAC', '11', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111005', 'HUAMANCACA CHICO', '11', '10', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111006', 'SAN JUAN DE YSCOS', '11', '10', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111007', 'SAN JUAN DE JARPA', '11', '10', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111008', '3 DE DICIEMBRE', '11', '10', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('111009', 'YANACANCHA', '11', '10', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121000', 'JULCAN.', '12', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121001', 'JULCAN.', '12', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121002', 'CALAMARCA', '12', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121003', 'CARABAMBA', '12', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121004', 'HUASO', '12', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121100', 'SANCHEZ CARRION', '12', '11', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121101', 'HUAMACHUCO', '12', '11', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121102', 'CHUGAY', '12', '11', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121103', 'COCHORCO', '12', '11', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121104', 'CURGOS', '12', '11', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121105', 'MARCABAL', '12', '11', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121106', 'SANAGORAN', '12', '11', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121107', 'SARIN', '12', '11', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121108', 'SARTIMBAMBA', '12', '11', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121200', 'GRAN CHIMU', '12', '12', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121201', 'CASCAS', '12', '12', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121202', 'LUCMA.', '12', '12', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121203', 'MARMOT', '12', '12', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121204', 'SAYAPULLO', '12', '12', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121300', 'VIRU', '12', '13', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121301', 'VIRU', '12', '13', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121302', 'CHAO', '12', '13', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('121303', 'GUADALUPITO', '12', '13', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141000', 'BARRANCA', '14', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141001', 'BARRANCA', '14', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141002', 'PARAMONGA', '14', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141003', 'PATIVILCA', '14', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141004', 'SUPE', '14', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141005', 'SUPE PUERTO', '14', '10', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141100', 'OYON', '14', '11', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141101', 'OYON', '14', '11', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141102', 'ANDAJES', '14', '11', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141103', 'CAUJUL', '14', '11', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141104', 'COCHAMARCA', '14', '11', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141105', 'NAVAN', '14', '11', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('141106', 'PACHANGARA', '14', '11', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071009', 'YAURISQUE', '07', '10', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071100', 'PAUCARTAMBO.', '07', '11', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071101', 'PAUCARTAMBO.', '07', '11', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071102', 'CAICAY', '07', '11', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071210', 'OCONGATE', '07', '12', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071211', 'OROPESA.', '07', '12', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071212', 'QUIQUIJANA', '07', '12', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071103', 'CHALLABAMBA', '07', '11', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071104', 'COLQUEPATA', '07', '11', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071105', 'HUANCARANI', '07', '11', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071106', 'KOSNIPATA', '07', '11', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071200', 'QUISPICANCHI', '07', '12', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071201', 'URCOS', '07', '12', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071202', 'ANDAHUAYLILLAS', '07', '12', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071203', 'CAMANTI', '07', '12', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071204', 'CCARHUAYO', '07', '12', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071205', 'CCATCA', '07', '12', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071206', 'CUSIPATA', '07', '12', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071207', 'HUARO', '07', '12', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071208', 'LUCRE.', '07', '12', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071209', 'MARCAPATA', '07', '12', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071300', 'URUBAMBA', '07', '13', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071301', 'URUBAMBA', '07', '13', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071302', 'CHINCHERO', '07', '13', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071303', 'HUAYLLABAMBA', '07', '13', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071304', 'MACHUPICCHU', '07', '13', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071305', 'MARAS', '07', '13', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071306', 'OLLANTAYTAMBO', '07', '13', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071307', 'YUCAY', '07', '13', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071400', 'CHUMBIVILCAS', '07', '14', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071401', 'SANTO TOMAS', '07', '14', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071402', 'CAPACMARCA', '07', '14', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071403', 'CHAMACA', '07', '14', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071404', 'COLQUEMARCA', '07', '14', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071405', 'LIVITACA', '07', '14', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071406', 'LLUSCO', '07', '14', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071407', 'QUINOTA', '07', '14', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071408', 'VELILLE', '07', '14', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021110', 'SANTA ROSA.', '02', '11', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021111', 'TAUCA', '02', '11', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021310', 'TICAPAMPA', '02', '13', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021510', 'SICSIBAMBA', '02', '15', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022210', 'SANTIAGO DE CHILCAS', '02', '22', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021000', 'MARISCAL LUZURIAGA', '02', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021001', 'PISCOBAMBA', '02', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021002', 'CASCA', '02', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021003', 'ELEAZAR GUZMAN BARRON', '02', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021004', 'FIDEL OLIVAS ESCUDERO', '02', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021005', 'LLAMA', '02', '10', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021006', 'LLUMPA', '02', '10', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021007', 'LUCMA', '02', '10', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021008', 'MUSGA', '02', '10', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021100', 'PALLASCA', '02', '11', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021101', 'CABANA', '02', '11', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021102', 'BOLOGNESI', '02', '11', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021103', 'CONCHUCOS', '02', '11', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021104', 'HUACASCHUQUE', '02', '11', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021105', 'HUANDOVAL', '02', '11', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021106', 'LACABAMBA', '02', '11', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021107', 'LLAPO', '02', '11', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021108', 'PALLASCA', '02', '11', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021109', 'PAMPAS', '02', '11', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021200', 'POMABAMBA', '02', '12', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021201', 'POMABAMBA', '02', '12', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021202', 'HUAYLLAN', '02', '12', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021203', 'PAROBAMBA', '02', '12', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021204', 'QUINUABAMBA', '02', '12', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021300', 'RECUAY', '02', '13', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021301', 'RECUAY', '02', '13', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021302', 'CATAC', '02', '13', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021303', 'COTAPARACO', '02', '13', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021304', 'HUAYLLAPAMPA', '02', '13', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021305', 'LLACLLIN', '02', '13', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021306', 'MARCA', '02', '13', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021307', 'PAMPAS CHICO', '02', '13', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021308', 'PARARIN', '02', '13', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021309', 'TAPACOCHA', '02', '13', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021400', 'SANTA', '02', '14', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021401', 'CHIMBOTE', '02', '14', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021402', 'CACERES DEL PERU', '02', '14', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021403', 'COISHCO', '02', '14', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021404', 'MACATE', '02', '14', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021405', 'MORO', '02', '14', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021406', 'NEPENA', '02', '14', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021407', 'SAMANCO', '02', '14', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021408', 'SANTA', '02', '14', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021409', 'NUEVO CHIMBOTE', '02', '14', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021500', 'SIHUAS', '02', '15', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021501', 'SIHUAS', '02', '15', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021502', 'ACOBAMBA', '02', '15', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021503', 'ALFONSO UGARTE', '02', '15', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021504', 'CASHAPAMPA', '02', '15', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021505', 'CHINGALPO', '02', '15', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021506', 'HUAYABAMBA', '02', '15', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021507', 'QUICHES', '02', '15', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021508', 'RAGASH', '02', '15', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021509', 'SAN JUAN', '02', '15', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021600', 'YUNGAY', '02', '16', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021601', 'YUNGAY', '02', '16', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021602', 'CASCAPARA', '02', '16', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021603', 'MANCOS', '02', '16', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021604', 'MATACOTO', '02', '16', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021605', 'QUILLO', '02', '16', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021606', 'RANRAHILCA', '02', '16', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021607', 'SHUPLUY', '02', '16', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021608', 'YANAMA', '02', '16', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021800', 'ASUNCION', '02', '18', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021801', 'CHACAS', '02', '18', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021802', 'ACOCHACA', '02', '18', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021900', 'CARLOS FERMIN FITZCARRALD', '02', '19', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021901', 'SAN LUIS', '02', '19', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051010', 'SARA SARA', '05', '10', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051110', 'SANTIAGO DE PAUCARAY', '05', '11', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051111', 'SORAS', '05', '11', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051000', 'PAUCAR DEL SARA SARA', '05', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051001', 'PAUSA', '05', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051002', 'COLTA', '05', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051003', 'CORCULLA', '05', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051004', 'LAMPA', '05', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051005', 'MARCABAMBA', '05', '10', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051006', 'OYOLO', '05', '10', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051007', 'PARARCA', '05', '10', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051008', 'SAN JAVIER DE ALPABAMBA', '05', '10', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051009', 'SAN JOSE DE USHUA', '05', '10', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051100', 'SUCRE', '05', '11', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051101', 'QUEROBAMBA', '05', '11', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051102', 'BELEN', '05', '11', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051103', 'CHALCOS', '05', '11', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051104', 'CHILCAYOC', '05', '11', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051105', 'HUACANA', '05', '11', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051106', 'MORCOLLA', '05', '11', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051107', 'PAICO', '05', '11', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051108', 'SAN PEDRO DE LARCAY', '05', '11', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051109', 'SAN SALVADOR DE QUIJE', '05', '11', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051200', 'VILCAS HUAMAN', '05', '12', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051201', 'VILCAS HUAMAN', '05', '12', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051202', 'ACCOMARCA', '05', '12', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051203', 'CARHUANCA', '05', '12', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051204', 'CONCEPCION', '05', '12', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051205', 'HUAMBALPA', '05', '12', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051206', 'INDEPENDENCIA.', '05', '12', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051207', 'SAURAMA', '05', '12', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('051208', 'VISCHONGO', '05', '12', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061010', 'SAN GREGORIO', '06', '10', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061011', 'SAN SILVESTRE DE COCHAN', '06', '10', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061012', 'TONGOD', '06', '10', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061013', 'UNION AGUA BLANCA', '06', '10', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061110', 'UTICYACU', '06', '11', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061111', 'YAUYUCAN', '06', '11', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061000', 'SAN MIGUEL.', '06', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061001', 'SAN MIGUEL.', '06', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061002', 'BOLIVAR', '06', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061003', 'CALQUIS', '06', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061004', 'CATILLUC', '06', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061005', 'EL PRADO', '06', '10', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061006', 'LA FLORIDA', '06', '10', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061007', 'LLAPA', '06', '10', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061008', 'NANCHOC', '06', '10', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061009', 'NIEPOS', '06', '10', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061100', 'SANTA CRUZ..', '06', '11', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061101', 'SANTA CRUZ..', '06', '11', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061102', 'ANDABAMBA.', '06', '11', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061103', 'CATACHE', '06', '11', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061104', 'CHANCAYBANOS', '06', '11', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061105', 'LA ESPERANZA', '06', '11', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061106', 'NINABAMBA', '06', '11', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061107', 'PULAN', '06', '11', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061108', 'SAUCEPAMPA', '06', '11', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061109', 'SEXI', '06', '11', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061200', 'SAN MARCOS', '06', '12', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061201', 'PEDRO GALVEZ', '06', '12', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061202', 'EDUARDO VILLANUEVA', '06', '12', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061203', 'GREGORIO PITA', '06', '12', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061204', 'ICHOCAN', '06', '12', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061205', 'JOSE MANUEL QUIROZ', '06', '12', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061206', 'JOSE SABOGAL', '06', '12', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061207', 'CHANCAY', '06', '12', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061300', 'SAN PABLO', '06', '13', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061301', 'SAN PABLO', '06', '13', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061302', 'SAN BERNARDINO', '06', '13', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061303', 'SAN LUIS.', '06', '13', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('061304', 'TUMBADEN', '06', '13', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071000', 'PARURO', '07', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071001', 'PARURO', '07', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071002', 'ACCHA', '07', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071003', 'CCAPI', '07', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071004', 'COLCHA', '07', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071005', 'HUANOQUITE', '07', '10', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071006', 'OMACHA', '07', '10', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080712', 'SAN ISIDRO', '08', '07', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080713', 'SANTIAGO DE CHOCORVOS', '08', '07', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080714', 'SANTIAGO DE QUIRAHUARA', '08', '07', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080715', 'SANTO DOMINGO DE CAPILLAS', '08', '07', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080716', 'TAMBO.', '08', '07', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090110', 'SANTA MARIA DEL VALLE', '09', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090111', 'YARUMAYO', '09', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090310', 'YANAS', '09', '03', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090410', 'SINGA', '09', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090411', 'TANTAMAYO', '09', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010118', 'SAN FRANCISCO DE DAGUAS', '01', '01', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010119', 'SAN ISIDRO DE MAINO', '01', '01', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010120', 'SOLOCO', '01', '01', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010121', 'SONCHE', '01', '01', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010310', 'SHIPASBAMBA', '01', '03', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010311', 'VALERA', '01', '03', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010312', 'YAMBRASBAMBA', '01', '03', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010510', 'LUYA VIEJO', '01', '05', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010511', 'MARIA', '01', '05', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010512', 'OCALLI', '01', '05', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010513', 'OCUMAL', '01', '05', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010514', 'PISUQUIA', '01', '05', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010515', 'PROVIDENCIA', '01', '05', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010516', 'SAN CRISTOBAL', '01', '05', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010517', 'SAN FRANCISCO DEL YESO', '01', '05', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010518', 'SAN JERONIMO', '01', '05', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010519', 'SAN JUAN DE LOPECANCHA', '01', '05', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010520', 'SANTA CATALINA', '01', '05', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010521', 'SANTO TOMAS', '01', '05', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010522', 'TINGO.', '01', '05', '22')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010523', 'TRITA', '01', '05', '23')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010610', 'SANTA ROSA', '01', '06', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010611', 'TOTORA', '01', '06', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010612', 'VISTA ALEGRE', '01', '06', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071007', 'PACCARITAMBO', '07', '10', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('071008', 'PILLPINTO', '07', '10', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091000', 'PUERTO INCA', '09', '10', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091001', 'PUERTO INCA', '09', '10', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091002', 'CODO DEL POZUZO', '09', '10', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020110', 'PIRA', '02', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020111', 'TARICA', '02', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020112', 'INDEPENDENCIA', '02', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020410', 'HUAYLLACAYAN', '02', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020411', 'LA PRIMAVERA', '02', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020412', 'MANGAS', '02', '04', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020413', 'PACLLON', '02', '04', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020414', 'SAN MIGUEL DE CORPANQUI', '02', '04', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020415', 'TICLLOS', '02', '04', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020510', 'TINCO', '02', '05', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020511', 'YUNGAR', '02', '05', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020810', 'PAUCAS', '02', '08', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020811', 'PONTO', '02', '08', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020812', 'RAHUAPAMPA', '02', '08', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020813', 'RAPAYAN', '02', '08', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020814', 'SAN MARCOS', '02', '08', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020815', 'SAN PEDRO DE CHANA', '02', '08', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020816', 'UCO', '02', '08', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020910', 'YURACMARCA', '02', '09', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030210', 'PAMPACHIRI', '03', '02', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030211', 'POMACOCHA', '03', '02', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030212', 'SAN ANTONIO DE CACHI', '03', '02', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030213', 'SAN JERONIMO.', '03', '02', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030214', 'SAN MIGUEL DE CHACCRAMPA', '03', '02', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030215', 'SANTA MARIA DE CHICMO', '03', '02', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030216', 'TALAVERA', '03', '02', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030217', 'TUMAY HUARACA', '03', '02', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030218', 'TURPO', '03', '02', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030219', 'KAQUIABAMBA', '03', '02', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030410', 'POCOHUANCA', '03', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030411', 'SAN JUAN DE CHACNA', '03', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030412', 'SANAYCA', '03', '04', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030413', 'SORAYA', '03', '04', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030414', 'TAPAIRIHUA', '03', '04', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030415', 'TINTAY', '03', '04', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030416', 'TORAYA', '03', '04', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030417', 'YANACA', '03', '04', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030610', 'SANTA ROSA..', '03', '06', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030611', 'TURPAY', '03', '06', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030612', 'VILCABAMBA', '03', '06', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030613', 'VIRUNDO', '03', '06', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030614', 'CURASCO', '03', '06', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040110', 'MOLLEBAYA', '04', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040111', 'PAUCARPATA', '04', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040112', 'POCSI', '04', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040113', 'POLOBAYA', '04', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040114', 'QUEQUENA', '04', '01', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040115', 'SABANDIA', '04', '01', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040116', 'SACHACA', '04', '01', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040117', 'SAN JUAN DE SIGUAS', '04', '01', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040118', 'SAN JUAN DE TARUCANI', '04', '01', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040119', 'SANTA ISABEL DE SIGUAS', '04', '01', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040120', 'SANTA RITA DE SIGUAS', '04', '01', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040121', 'SOCABAYA', '04', '01', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040122', 'TIABAYA', '04', '01', '22')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040123', 'UCHUMAYO', '04', '01', '23')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040124', 'VITOR', '04', '01', '24')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040125', 'YANAHUARA', '04', '01', '25')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040126', 'YARABAMBA', '04', '01', '26')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040127', 'YURA', '04', '01', '27')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040128', 'JOSE LUIS BUSTAMANTE Y RI', '04', '01', '28')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040129', 'ALTO SELVA ALEGRE', '04', '01', '29')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040130', 'VALLECITO', '04', '01', '30')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040310', 'JAQUI', '04', '03', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040311', 'LOMAS', '04', '03', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040312', 'QUICACHA', '04', '03', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040313', 'YAUCA', '04', '03', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040410', 'LARI', '04', '04', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040411', 'LLUTA', '04', '04', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040412', 'MACA', '04', '04', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040413', 'MADRIGAL', '04', '04', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040414', 'SAN ANTONIO DE CHUCA', '04', '04', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040415', 'SIBAYO', '04', '04', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040416', 'TAPAY', '04', '04', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040417', 'TISCO', '04', '04', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040418', 'TUTI', '04', '04', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040419', 'YANQUE', '04', '04', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040710', 'TOMEPAMPA', '04', '07', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040711', 'TORO', '04', '07', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040810', 'PAMPACOLCA', '04', '08', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040811', 'TIPAN', '04', '08', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040812', 'UNON', '04', '08', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040813', 'URACA', '04', '08', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040814', 'VIRACO', '04', '08', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050110', 'SAN JUAN BAUTISTA', '05', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050111', 'SANTIAGO DE PISCHA', '05', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050112', 'SOCOS', '05', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050113', 'TAMBILLO', '05', '01', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050114', 'VINCHOS', '05', '01', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050510', 'LLAUTA', '05', '05', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050511', 'LUCANAS', '05', '05', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050512', 'OCANA', '05', '05', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050513', 'OTOCA', '05', '05', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050514', 'SAISA', '05', '05', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050515', 'SAN CRISTOBAL.', '05', '05', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050516', 'SAN JUAN.', '05', '05', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050517', 'SAN PEDRO..', '05', '05', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050518', 'SAN PEDRO DE PALCO', '05', '05', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050519', 'SANCOS', '05', '05', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050520', 'STA ANA DE HUAYCAHUACHO', '05', '05', '20')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050521', 'SANTA LUCIA', '05', '05', '21')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050710', 'HUAYA', '05', '07', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050711', 'SARHUA', '05', '07', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050712', 'VILCANCHOS', '05', '07', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060110', 'MATARA', '06', '01', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060111', 'NAMORA', '06', '01', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060112', 'SAN JUAN..', '06', '01', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060310', 'SUCRE', '06', '03', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060311', 'UTCO', '06', '03', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060312', 'LA LIBERTAD DE PALLAN', '06', '03', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060510', 'SAN LUIS DE LUCMA', '06', '05', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060511', 'SANTA CRUZ.', '06', '05', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060512', 'STO DOMINGO DE LA CAPILLA', '06', '05', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060513', 'SANTO TOMAS.', '06', '05', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060514', 'SOCOTA', '06', '05', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060515', 'TORIBIO CASANOVA', '06', '05', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060610', 'LLAMA.', '06', '06', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060611', 'MIRACOSTA', '06', '06', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060612', 'PACCHA', '06', '06', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060613', 'PION', '06', '06', '13')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060614', 'QUEROCOTO', '06', '06', '14')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060615', 'SAN JUAN DE LICUPIS', '06', '06', '15')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060616', 'TACABAMBA', '06', '06', '16')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060617', 'TOCMOCHE', '06', '06', '17')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060618', 'CHOROPAMPA', '06', '06', '18')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060619', 'CHALAMARCA', '06', '06', '19')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060810', 'SAN FELIPE', '06', '08', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060811', 'SAN JOSE DEL ALTO', '06', '08', '11')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060812', 'SANTA ROSA.', '06', '08', '12')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050302', 'AYAHUANCO', '05', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070910', 'PICHARI', '07', '09', '10')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200303', 'AYAPATA', '20', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200304', 'COASA', '20', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200305', 'CORANI', '20', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200306', 'CRUCERO', '20', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200307', 'ITUATA', '20', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200308', 'OLLACHEA', '20', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200309', 'SAN GABAN', '20', '03', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200400', 'CHUCUITO', '20', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200401', 'JULI', '20', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200402', 'CAPASO', '20', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200403', 'DESAGUADERO', '20', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200404', 'HUACULLANI', '20', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200406', 'KELLUYO', '20', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200408', 'PISACOMA', '20', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200409', 'POMATA', '20', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200500', 'HUANCANE', '20', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200501', 'HUANCANE', '20', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200502', 'COJATA', '20', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200504', 'HUATASANI', '20', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200505', 'INCHUPALLA', '20', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200506', 'MOHO', '20', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200507', 'PUSI', '20', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200508', 'ROSASPATA', '20', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200509', 'TARACO', '20', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200600', 'LAMPA.', '20', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200601', 'LAMPA.', '20', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200602', 'CABANILLA', '20', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200603', 'CALAPUJA', '20', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200604', 'NICASIO', '20', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200605', 'OCUVIRI', '20', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200606', 'PALCA', '20', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200607', 'PARATIA', '20', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200608', 'PUCARA', '20', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200609', 'SANTA LUCIA.', '20', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200700', 'SANDIA', '20', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200701', 'SANDIA', '20', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200702', 'CUYOCUYO', '20', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200703', 'LIMBANI', '20', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200704', 'PATAMBUCO', '20', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200705', 'PHARA', '20', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200706', 'QUIACA', '20', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200707', 'SAN JUAN DEL ORO', '20', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200708', 'YANAHUAYA', '20', '07', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200709', 'ALTO INAMBARI', '20', '07', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200800', 'SAN ROMAN', '20', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200801', 'JULIACA', '20', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200802', 'CABANA', '20', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200803', 'CABANILLAS', '20', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200804', 'CARACOTO', '20', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210000', 'SAN MARTIN', '21', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210100', 'MOYOBAMBA', '21', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210101', 'MOYOBAMBA', '21', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210102', 'CALZADA', '21', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210103', 'HABANA', '21', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210104', 'JEPELACIO', '21', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210105', 'SORITOR', '21', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210106', 'YANTALO', '21', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210300', 'LAMAS', '21', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210301', 'LAMAS', '21', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210303', 'ALONSO DE ALVARADO', '21', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210304', 'BARRANQUITA', '21', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210305', 'CAYNARACHI', '21', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210306', 'CUNUMBUQUI', '21', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210307', 'PINTO RECODO', '21', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210308', 'RUMISAPA', '21', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210400', 'MARISCAL CACERES', '21', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210401', 'JUANJUI', '21', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210402', 'CAMPANILLA', '21', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210403', 'HUICUNGO', '21', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210404', 'PACHIZA', '21', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210405', 'PAJARILLO', '21', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210500', 'RIOJA', '21', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210501', 'RIOJA', '21', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210502', 'AWAJUN', '21', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210503', 'ELIAS SOPLIN VARGAS', '21', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210504', 'NUEVA CAJAMARCA', '21', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210505', 'PARDO MIGUEL', '21', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210506', 'POSIC', '21', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210507', 'SAN FERNANDO', '21', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210508', 'YORONGOS', '21', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210509', 'YURACYACU', '21', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210600', 'SAN MARTIN', '21', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210601', 'TARAPOTO', '21', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210602', 'ALBERTO LEVEAU', '21', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210603', 'CACATACHI', '21', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210604', 'CHAZUTA', '21', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210605', 'CHIPURANA', '21', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210606', 'EL PORVENIR.', '21', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210607', 'HUIMBAYOC', '21', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210608', 'JUAN GUERRA', '21', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210609', 'LA BANDA DE SHILCAYO', '21', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210700', 'BELLAVISTA', '21', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210701', 'BELLAVISTA', '21', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210702', 'ALTO BIAVO', '21', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210703', 'BAJO BIAVO', '21', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210704', 'HUALLAGA', '21', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210705', 'SAN PABLO', '21', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210706', 'SAN RAFAEL.', '21', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210800', 'HUALLAGA', '21', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210801', 'SAPOSOA', '21', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210802', 'ALTO SAPOSOA', '21', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210803', 'EL ESLABON', '21', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210804', 'PISCOYACU', '21', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210805', 'SACANCHE', '21', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210806', 'TINGO DE SAPOSOA', '21', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210900', 'PICOTA', '21', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210901', 'PICOTA', '21', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210902', 'BUENOS AIRES', '21', '09', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210903', 'CASPISAPA', '21', '09', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210904', 'PILLUANA', '21', '09', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210905', 'PUCACACA', '21', '09', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210906', 'SAN CRISTOBAL', '21', '09', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210907', 'SAN HILARION', '21', '09', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210908', 'SHAMBOYACU', '21', '09', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('210909', 'TINGO DE PONASA', '21', '09', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220402', 'ILABAYA', '22', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('220403', 'ITE', '22', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230000', 'TUMBES', '23', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230100', 'TUMBES', '23', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230101', 'TUMBES', '23', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230102', 'CORRALES', '23', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230103', 'LA CRUZ', '23', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230104', 'PAMPAS DE HOSPITAL', '23', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230105', 'SAN JACINTO', '23', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230106', 'SAN JUAN DE LA VIRGEN', '23', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230200', 'CONTRALMIRANTE VILLAR', '23', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230201', 'ZORRITOS', '23', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230202', 'CASITAS', '23', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230300', 'ZARUMILLA', '23', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230301', 'ZARUMILLA', '23', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230302', 'AGUAS VERDES', '23', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230303', 'MATAPALO', '23', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('230304', 'PAPAYAL', '23', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240000', 'UCAYALI', '24', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240100', 'ATALAYA', '24', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240101', 'RAYMONDI', '24', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240102', 'SEPAHUA', '24', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240103', 'TAHUANIA', '24', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240104', 'YURUA', '24', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240200', 'CORONEL PORTILLO', '24', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240201', 'PUCALLPA/CALLERIA', '24', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240202', 'CAMPOVERDE', '24', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240203', 'IPARIA', '24', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240204', 'MASISEA', '24', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240205', 'YARINACOCHA', '24', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240206', 'NUEVA REQUENA', '24', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240300', 'PADRE ABAD', '24', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240301', 'PADRE ABAD', '24', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240302', 'IRAZOLA', '24', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240303', 'CURIMANA', '24', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240400', 'PURUS', '24', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240401', 'PURUS', '24', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240500', 'PUCALLPA', '24', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('240501', 'PUCALLPA', '24', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100000', 'ICA', '10', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100100', 'ICA', '10', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100101', 'ICA', '10', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100102', 'LA TINGUINA', '10', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100103', 'LOS AQUIJES', '10', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100104', 'OCUCAJE', '10', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100105', 'PACHACUTEC', '10', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100106', 'PARCONA', '10', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100107', 'PUEBLO NUEVO', '10', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100108', 'SALAS', '10', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100109', 'SAN JOSE DE LOS MOLINOS', '10', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100200', 'CHINCHA', '10', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100201', 'CHINCHA ALTA', '10', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100202', 'ALTO LARAN', '10', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100203', 'CHAVIN', '10', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100204', 'CHINCHA BAJA', '10', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100205', 'EL CARMEN.', '10', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100206', 'GROCIO PRADO', '10', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100207', 'PUEBLO NUEVO.', '10', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100208', 'SAN JUAN DE YANAC', '10', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100209', 'SAN PEDRO DE HUACARPANA', '10', '02', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100300', 'NAZCA', '10', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100301', 'NAZCA', '10', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100302', 'CHANGUILLO', '10', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100303', 'EL INGENIO', '10', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100304', 'MARCONA', '10', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100305', 'VISTA ALEGRE.', '10', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100400', 'PALPA', '10', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100401', 'PALPA', '10', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100402', 'LLIPATA', '10', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100403', 'RIO GRANDE', '10', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100404', 'SANTA CRUZ', '10', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100405', 'TIBILLO', '10', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100500', 'PISCO', '10', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100501', 'PISCO', '10', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100502', 'HUANCANO', '10', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100503', 'HUMAY', '10', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100504', 'INDEPENDENCIA', '10', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100505', 'PARACAS', '10', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100506', 'SAN ANDRES', '10', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100507', 'SAN CLEMENTE', '10', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('100508', 'TUPAC AMARU INCA', '10', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110000', 'JUNIN', '11', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110100', 'HUANCAYO', '11', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110101', 'HUANCAYO', '11', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110102', 'CARHUACALLANGA', '11', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110103', 'CHACAPAMPA.', '11', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110104', 'CHICCHE', '11', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110105', 'CHILCA', '11', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110106', 'CHONGOS ALTO', '11', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110107', 'CHUPURO', '11', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110108', 'COLCA.', '11', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110109', 'CULLHUAS', '11', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090905', 'LUYANDO', '09', '09', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110200', 'CONCEPCION.', '11', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110201', 'CONCEPCION.', '11', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110202', 'ACO.', '11', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110203', 'ANDAMARCA', '11', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110204', 'CHAMBARA', '11', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110205', 'COCHAS.', '11', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110206', 'COMAS', '11', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110207', 'HEROINAS TOLEDO', '11', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110208', 'MANZANARES', '11', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110209', 'MARISCAL CASTILLA.', '11', '02', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110300', 'JAUJA', '11', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110301', 'JAUJA', '11', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110302', 'ACOLLA', '11', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110303', 'APATA', '11', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110304', 'ATAURA', '11', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110305', 'CANCHAYLLO', '11', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110306', 'CURICACA.', '11', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110307', 'EL MANTARO', '11', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110308', 'HUAMALI', '11', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110309', 'HUARIPAMPA', '11', '03', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110400', 'JUNIN', '11', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110401', 'JUNIN', '11', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110402', 'CARHUAMAYO', '11', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110403', 'ONDORES', '11', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110404', 'ULCUMAYO', '11', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110500', 'SATIPO', '11', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110501', 'SATIPO', '11', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110502', 'COVIRIALI', '11', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110503', 'LLAYLLA', '11', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110504', 'MAZAMARI', '11', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110505', 'PAMPA HERMOSA', '11', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110506', 'PANGOA', '11', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110507', 'RIO NEGRO', '11', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110508', 'RIO TAMBO', '11', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110600', 'TARMA', '11', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110601', 'TARMA', '11', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110602', 'ACOBAMBA..', '11', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110603', 'HUARICOLCA', '11', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110604', 'HUASAHUASI', '11', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110605', 'LA UNION.', '11', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110606', 'PALCA.', '11', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110607', 'PALCAMAYO', '11', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110608', 'SAN PEDRO DE CAJAS', '11', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110609', 'TAPO', '11', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110700', 'YAULI', '11', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110701', 'LA OROYA', '11', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110702', 'CHACAPALPA', '11', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110703', 'HUAY-HUAY', '11', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110704', 'MARCAPOMACOCHA', '11', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110705', 'MOROCOCHA', '11', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110706', 'PACCHA', '11', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110707', 'SANTA BARBARA D CARHUACAY', '11', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110708', 'SANTA ROSA DE SACCO', '11', '07', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110709', 'SUITUCANCHA', '11', '07', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110800', 'CHANCHAMAYO', '11', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110801', 'SAN RAMON', '11', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110802', 'PERENE', '11', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110803', 'CHANCHAMAYO', '11', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110804', 'PICHANAQUI', '11', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110805', 'SAN LUIS DE SHUARO', '11', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110806', 'VITOC', '11', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110900', 'LA MERCED', '11', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('110901', 'LA MERCED', '11', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120000', 'LA LIBERTAD', '12', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120100', 'TRUJILLO', '12', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120101', 'TRUJILLO', '12', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120102', 'EL PORVENIR', '12', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120103', 'FLORENCIA DE MORA', '12', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120104', 'HUANCHACO', '12', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120105', 'LA ESPERANZA.', '12', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120106', 'LAREDO', '12', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120107', 'MOCHE', '12', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120108', 'POROTO', '12', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120109', 'SALAVERRY', '12', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120200', 'BOLIVAR.', '12', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120201', 'BOLIVAR.', '12', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120202', 'BAMBAMARCA.', '12', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120203', 'CONDORMARCA', '12', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120204', 'LONGOTEA', '12', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120205', 'UCHUMARCA', '12', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120206', 'UCUNCHA', '12', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120400', 'OTUZCO', '12', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120401', 'OTUZCO', '12', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120402', 'AGALLPAMPA', '12', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120404', 'CHARAT', '12', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120405', 'HUARANCHAL', '12', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120406', 'LA CUESTA', '12', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120408', 'MACHE', '12', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120500', 'PACASMAYO', '12', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120501', 'SAN PEDRO DE LLOC', '12', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120502', 'GUADALUPE', '12', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120503', 'JEQUETEPEQUE', '12', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120504', 'PACASMAYO', '12', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120505', 'SAN JOSE', '12', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120600', 'PATAZ', '12', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120601', 'TAYABAMBA', '12', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120602', 'BULDIBUYO', '12', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120603', 'CHILLIA', '12', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120604', 'HUANCASPATA', '12', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120605', 'HUAYLILLAS', '12', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120606', 'HUAYO', '12', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120607', 'ONGON', '12', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120608', 'PARCOY', '12', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120609', 'PATAZ', '12', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120700', 'SANTIAGO DE CHUCO', '12', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120701', 'SANTIAGO DE CHUCO', '12', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120702', 'ANGASMARCA', '12', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120703', 'CACHICADAN', '12', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120704', 'MOLLEBAMBA', '12', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120705', 'MOLLEPATA.', '12', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120706', 'QUIRUVILCA', '12', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120707', 'SANTA CRUZ DE CHUCA', '12', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120708', 'SITABAMBA', '12', '07', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120800', 'ASCOPE', '12', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120801', 'ASCOPE', '12', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120802', 'CHICAMA', '12', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120803', 'CHOCOPE', '12', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120804', 'MAGDALENA DE CAO', '12', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120805', 'PAIJAN', '12', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120806', 'RAZURI', '12', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120807', 'SANTIAGO DE CAO', '12', '08', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120900', 'CHEPEN', '12', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120901', 'CHEPEN', '12', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120902', 'PACANGA', '12', '09', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('120903', 'PUEBLO NUEVO', '12', '09', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130000', 'LAMBAYEQUE', '13', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130100', 'CHICLAYO', '13', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130101', 'CHICLAYO', '13', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130102', 'CHONGOYAPE', '13', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130103', 'ETEN', '13', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130104', 'ETEN PUERTO', '13', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130105', 'JOSE LEONARDO ORTIZ', '13', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130106', 'LA VICTORIA', '13', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130107', 'LAGUNAS', '13', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130108', 'MONSEFU', '13', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130109', 'NUEVA ARICA', '13', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130200', 'LAMBAYEQUE', '13', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130201', 'LAMBAYEQUE', '13', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130202', 'CHOCHOPE', '13', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130203', 'ILLIMO', '13', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130204', 'JAYANCA', '13', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130205', 'MOCHUMI', '13', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130206', 'MORROPE', '13', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130207', 'MOTUPE', '13', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130208', 'OLMOS', '13', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130209', 'PACORA', '13', '02', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130300', 'FERRENAFE', '13', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130301', 'FERRENAFE', '13', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130302', 'CANARIS', '13', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130303', 'INCAHUASI', '13', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130304', 'MANUEL A MESONES MURO', '13', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130305', 'PITIPO', '13', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('130306', 'PUEBLO NUEVO', '13', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140000', 'LIMA', '14', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140100', 'LIMA', '14', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140101', 'CERCADO DE LIMA', '14', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140102', 'ANCON', '14', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140103', 'ATE', '14', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140104', 'BARRANCO', '14', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140105', 'BRENA', '14', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140106', 'CARABAYLLO', '14', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140107', 'COMAS.', '14', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140108', 'CHACLACAYO', '14', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140109', 'CHORRILLOS', '14', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140200', 'CAJATAMBO', '14', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140201', 'CAJATAMBO', '14', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140202', 'COPA', '14', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140203', 'GORGOR', '14', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140204', 'HUANCAPON', '14', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140205', 'MANAS', '14', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140300', 'CANTA', '14', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140301', 'CANTA', '14', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140302', 'ARAHUAY', '14', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140303', 'HUAMANTANGA', '14', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140304', 'HUAROS', '14', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140305', 'LACHAQUI', '14', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140306', 'SAN BUENAVENTURA.', '14', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140307', 'SANTA ROSA DE QUIVES', '14', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140400', 'CANETE', '14', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140401', 'SAN VICENTE DE CANETE', '14', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140402', 'ASIA', '14', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140403', 'CALANGO', '14', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140404', 'CERRO AZUL', '14', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140405', 'CHILCA.', '14', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140406', 'COAYLLO', '14', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140407', 'IMPERIAL', '14', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140408', 'LUNAHUANA', '14', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140409', 'MALA', '14', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140500', 'HUAURA', '14', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140501', 'HUAURA', '14', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140502', 'HUACHO', '14', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140503', 'AMBAR', '14', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140504', 'CALETA DE CARQUIN', '14', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140505', 'CHECRAS', '14', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140506', 'HUALMAY', '14', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140507', 'LEONCIO PRADO', '14', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140508', 'PACCHO', '14', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140509', 'SANTA LEONOR', '14', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140600', 'HUAROCHIRI', '14', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140601', 'HUAROCHIRI', '14', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140602', 'SANTA EULALIA', '14', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140603', 'MATUCANA', '14', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140604', 'ANTIOQUIA', '14', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140605', 'CALLAHUANCA', '14', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140606', 'CARAMPOMA', '14', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140607', 'CHICLA', '14', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140608', 'CUENCA.', '14', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140609', 'HUACHUPAMPA', '14', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140700', 'YAUYOS.', '14', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140701', 'YAUYOS.', '14', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140702', 'ALIS', '14', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140703', 'AYAUCA', '14', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140704', 'AYAVIRI', '14', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140705', 'AZANGARO.', '14', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140706', 'CACRA', '14', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140707', 'CARANIA', '14', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140708', 'CATAHUASI', '14', '07', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140709', 'CHOCOS', '14', '07', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140800', 'HUARAL', '14', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140801', 'HUARAL', '14', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140802', 'CHANCAY.', '14', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140803', 'ATAVILLOS ALTO', '14', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140804', 'ATAVILLOS BAJO', '14', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140805', 'AUCALLAMA', '14', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140806', 'IHUARI', '14', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140807', 'LAMPIAN', '14', '08', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140808', 'PACARAOS', '14', '08', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140809', 'SAN MIGUEL DE ACOS', '14', '08', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140900', 'CALLAO', '14', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140901', 'CALLAO', '14', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140902', 'BELLAVISTA.', '14', '09', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140903', 'CARMEN DE LA LEGUA REYNOSO', '14', '09', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140904', 'LA PERLA', '14', '09', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140905', 'LA PUNTA', '14', '09', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('140907', 'VENTANILLA', '14', '09', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150000', 'LORETO', '15', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150100', 'MAYNAS', '15', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150101', 'IQUITOS', '15', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150102', 'ALTO NANAY', '15', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150103', 'FERNANDO LORES', '15', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150104', 'INDIANA', '15', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150105', 'LAS AMAZONAS', '15', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150106', 'MAZAN', '15', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150107', 'NAPO', '15', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150108', 'PUNCHANA', '15', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150109', 'PUTUMAYO', '15', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150200', 'ALTO AMAZONAS', '15', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150201', 'YURIMAGUAS', '15', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150202', 'BALSAPUERTO', '15', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150203', 'BARRANCA.', '15', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150204', 'CAHUAPANAS', '15', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150205', 'JEBEROS', '15', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150206', 'LAGUNAS.', '15', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150207', 'MANSERICHE', '15', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150208', 'MORONA', '15', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150209', 'PASTAZA', '15', '02', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150400', 'LORETO', '15', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150409', 'NAUTA', '15', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150500', 'REQUENA', '15', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150501', 'REQUENA', '15', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150502', 'ALTO TAPICHE', '15', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150503', 'CAPELO', '15', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150504', 'EMILIO SAN MARTIN', '15', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150505', 'MAQUIA', '15', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150506', 'PUINAHUA', '15', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150507', 'SAQUENA', '15', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150508', 'SOPLIN', '15', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150509', 'TAPICHE', '15', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150600', 'UCAYALI', '15', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150601', 'CONTAMANA', '15', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150602', 'INAHUAYA', '15', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150603', 'PADRE MARQUEZ', '15', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150604', 'PAMPA HERMOSA.', '15', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150605', 'SARAYACU', '15', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150606', 'VARGAS GUERRA', '15', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150700', 'MARISCAL RAMON CASTILLA', '15', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150701', 'RAMON CASTILLA', '15', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150702', 'PEBAS', '15', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150703', 'YAVARI', '15', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('150704', 'SAN PABLO', '15', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160000', 'MADRE DE DIOS', '16', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160200', 'MANU', '16', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160201', 'MANU', '16', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160202', 'FITZCARRALD', '16', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160203', 'MADRE DE DIOS', '16', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160300', 'TAHUAMANU', '16', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160301', 'INAPARI', '16', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160302', 'IBERIA', '16', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160303', 'TAHUAMANU', '16', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160400', 'TAMBOPATA', '16', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160401', 'TAMBOPATA', '16', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160402', 'INAMBARI', '16', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160403', 'LAS PIEDRAS', '16', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('160404', 'LABERINTO', '16', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170000', 'MOQUEGUA', '17', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170100', 'MARISCAL NIETO', '17', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170101', 'MOQUEGUA', '17', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170102', 'CARUMAS', '17', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170103', 'CUCHUMBAYA', '17', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170104', 'SAMEGUA', '17', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170105', 'SAN CRISTOBAL', '17', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170106', 'TORATA', '17', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170200', 'GRAL SANCHEZ CERRO', '17', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170201', 'OMATE', '17', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170202', 'CHOJATA', '17', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170203', 'COALAQUE', '17', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170204', 'ICHUNA', '17', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170205', 'LA CAPILLA', '17', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170206', 'LLOQUE', '17', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170207', 'MATALAQUE', '17', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170208', 'PUQUINA', '17', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170209', 'QUINISTAQUILLAS', '17', '02', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170300', 'ILO', '17', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170301', 'ILO', '17', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170302', 'EL ALGARROBAL', '17', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('170303', 'PACOCHA', '17', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180000', 'PASCO', '18', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180100', 'PASCO', '18', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180101', 'CERRO DE PASCO/CHAUPIMARCA', '18', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180102', 'HUACHON', '18', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180103', 'HUARIACA', '18', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180104', 'HUAYLLAY', '18', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180105', 'NINACACA', '18', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180106', 'PALLANCHACRA', '18', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180107', 'PAUCARTAMBO', '18', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180108', 'S FCO D ASIS D YARUSYACAN', '18', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180109', 'SIMON BOLIVAR', '18', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180200', 'DANIEL ALCIDES CARRION', '18', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180201', 'YANAHUANCA', '18', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180202', 'CHACAYAN', '18', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180203', 'GOYLLARISQUIZGA', '18', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180204', 'PAUCAR', '18', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180205', 'SAN PEDRO DE PILLAO', '18', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180206', 'SANTA ANA DE TUSI', '18', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180207', 'TAPUC', '18', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180208', 'VILCABAMBA', '18', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180300', 'OXAPAMPA', '18', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180301', 'OXAPAMPA', '18', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180302', 'CHONTABAMBA', '18', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180303', 'HUANCABAMBA', '18', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180304', 'PALCAZU', '18', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180305', 'POZUZO', '18', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180306', 'PUERTO BERMUDEZ', '18', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('180307', 'VILLA RICA', '18', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190000', 'PIURA', '19', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190100', 'PIURA', '19', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190101', 'PIURA', '19', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190102', 'CASTILLA', '19', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190103', 'CATACAOS', '19', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190104', 'CURA MORI', '19', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190105', 'EL TALLAN', '19', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190106', 'LA ARENA', '19', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190107', 'LA UNION', '19', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190108', 'LAS LOMAS', '19', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190109', 'TAMBO GRANDE', '19', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190200', 'AYABACA', '19', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190201', 'AYABACA', '19', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190202', 'FRIAS', '19', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190203', 'JILILI', '19', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190204', 'LAGUNAS', '19', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190205', 'MONTERO', '19', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190206', 'PACAIPAMPA', '19', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190207', 'PAIMAS', '19', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190208', 'SAPILLICA', '19', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190209', 'SICCHEZ', '19', '02', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190300', 'HUANCABAMBA.', '19', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190301', 'HUANCABAMBA.', '19', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190302', 'CANCHAQUE', '19', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190303', 'EL CARMEN DE LA FRONTERA', '19', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190304', 'HUARMACA', '19', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190305', 'LALAQUIZ', '19', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190306', 'SAN MIGUEL DE EL FAIQUE', '19', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190307', 'SONDOR', '19', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190308', 'SONDORILLO', '19', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190400', 'MORROPON', '19', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190401', 'CHULUCANAS', '19', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190402', 'BUENOS AIRES', '19', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190403', 'CHALACO', '19', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190404', 'LA MATANZA', '19', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190405', 'MORROPON', '19', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190406', 'SALITRAL', '19', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190407', 'SAN JUAN DE BIGOTE', '19', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190408', 'SANTA CATALINA DE MOSSA', '19', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190409', 'SANTO DOMINGO', '19', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190500', 'PAITA', '19', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190501', 'PAITA', '19', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190502', 'AMOTAPE', '19', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190503', 'ARENAL', '19', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190504', 'COLAN', '19', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190505', 'LA HUACA', '19', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190506', 'TAMARINDO', '19', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190507', 'VICHAYAL', '19', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190600', 'SULLANA', '19', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190601', 'SULLANA', '19', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190602', 'BELLAVISTA', '19', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190603', 'IGNACIO ESCUDERO', '19', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190604', 'LANCONES', '19', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190605', 'MARCAVELICA', '19', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190606', 'MIGUEL CHECA', '19', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190607', 'QUERECOTILLO', '19', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190608', 'SALITRAL.', '19', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190704', 'LOBITOS', '19', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190705', 'LOS ORGANOS', '19', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190706', 'MANCORA', '19', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190707', 'TALARA', '19', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190800', 'SECHURA', '19', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190801', 'SECHURA', '19', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190802', 'BELLAVISTA DE LA UNION', '19', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190803', 'BERNAL', '19', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190804', 'CRISTO NOS VALGA', '19', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190805', 'VICE', '19', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('190806', 'RINCONADA LLICUAR', '19', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200000', 'PUNO', '20', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200100', 'PUNO', '20', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200101', 'PUNO', '20', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200102', 'ACORA', '20', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200103', 'AMANTANI', '20', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200104', 'ATUNCOLLA', '20', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200105', 'CAPACHICA', '20', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200106', 'CHUCUITO', '20', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200107', 'COATA', '20', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200108', 'HUATA.', '20', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200109', 'MANAZO', '20', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200200', 'AZANGARO', '20', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200201', 'AZANGARO', '20', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200202', 'ACHAYA', '20', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('200203', 'ARAPA', '20', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080000', 'HUANCAVELICA', '08', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080100', 'HUANCAVELICA', '08', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080101', 'HUANCAVELICA', '08', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080102', 'ACOBAMBILLA', '08', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080103', 'ACORIA', '08', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080104', 'CONAYCA', '08', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080105', 'CUENCA', '08', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080106', 'HUACHOCOLPA', '08', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080107', 'HUAYLLAHUARA', '08', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080108', 'IZCUCHACA', '08', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080109', 'LARIA', '08', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080200', 'ACOBAMBA', '08', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080201', 'ACOBAMBA', '08', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080202', 'ANDABAMBA', '08', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080203', 'ANTA', '08', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080204', 'CAJA', '08', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080205', 'MARCAS', '08', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080206', 'PAUCARA', '08', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080207', 'POMACOCHA', '08', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080208', 'ROSARIO', '08', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080300', 'ANGARAES', '08', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080301', 'LIRCAY', '08', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080302', 'ANCHONGA', '08', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080303', 'CALLANMARCA', '08', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080304', 'CCOCHACCASA', '08', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080305', 'CHINCHO', '08', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080306', 'CONGALLA', '08', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080307', 'HUANCA-HUANCA', '08', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080308', 'HUAYLLAY GRANDE', '08', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080309', 'JULCAMARCA', '08', '03', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080400', 'TAYACAJA', '08', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080401', 'PAMPAS.', '08', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080402', 'ACOSTAMBO', '08', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080403', 'ACRAQUIA', '08', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080404', 'AHUAYCHA', '08', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080405', 'COLCABAMBA', '08', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080406', 'DANIEL HERNANDEZ', '08', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080407', 'HUACHOCOLPA', '08', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080408', 'HUANDO', '08', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080409', 'HUARIBAMBA', '08', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080500', 'CASTROVIRREYNA', '08', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080501', 'CASTROVIRREYNA', '08', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080502', 'ARMA', '08', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080503', 'AURAHUA', '08', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080504', 'CAPILLAS', '08', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080505', 'CHUPAMARCA', '08', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080506', 'COCAS', '08', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080507', 'HUACHOS', '08', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080508', 'HUAMATAMBO', '08', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080509', 'MOLLEPAMPA', '08', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080600', 'CHURCAMPA', '08', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080601', 'CHURCAMPA', '08', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080602', 'ANCO', '08', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080603', 'CHINCHIHUASI', '08', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080604', 'EL CARMEN', '08', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080605', 'LA MERCED.', '08', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080606', 'LOCROJA', '08', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080608', 'PAUCARBAMBA', '08', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080609', 'SAN MIGUEL DE MAYOCC', '08', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080700', 'HUAYTARA', '08', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080701', 'HUAYTARA', '08', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080702', 'AYAVI', '08', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080703', 'CORDOVA', '08', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080704', 'HUAYACUNDO ARMA', '08', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080705', 'LARAMARCA', '08', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080706', 'OCOYO', '08', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080707', 'PILPICHACA', '08', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080708', 'QUERCO', '08', '07', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('080709', 'QUITO-ARMA', '08', '07', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021902', 'SAN NICOLAS.', '02', '19', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('021903', 'YAUYA', '02', '19', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022000', 'HUARMEY', '02', '20', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022001', 'HUARMEY', '02', '20', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022002', 'COCHAPETI', '02', '20', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022003', 'CULEBRAS', '02', '20', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022004', 'HUAYAN', '02', '20', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022005', 'MALVAS', '02', '20', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022200', 'OCROS', '02', '22', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022201', 'OCROS', '02', '22', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022202', 'ACAS', '02', '22', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022203', 'CAJAMARQUILLA', '02', '22', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022204', 'CARHUAPAMPA', '02', '22', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022205', 'COCHAS', '02', '22', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022206', 'CONGAS', '02', '22', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022207', 'LLIPA', '02', '22', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022208', 'SAN CRISTOBAL DE RAJAN', '02', '22', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('022209', 'SAN PEDRO.', '02', '22', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091003', 'HONORIA', '09', '10', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091004', 'TOURNAVISTA', '09', '10', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091005', 'YUYAPICHIS', '09', '10', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091100', 'LAURICOCHA', '09', '11', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091101', 'JESUS.', '09', '11', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091102', 'BANOS', '09', '11', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091103', 'JIVIA', '09', '11', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091104', 'QUEROPALCA', '09', '11', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091105', 'RONDOS', '09', '11', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091106', 'SAN FRANCISCO DE ASIS', '09', '11', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091107', 'SAN MIGUEL DE CAURI', '09', '11', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091200', 'YAROWILCA', '09', '12', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091201', 'CHAVINILLO', '09', '12', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091202', 'CAHUAC', '09', '12', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091203', 'CHACABAMBA', '09', '12', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091204', 'CHUPAN', '09', '12', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091205', 'JACAS CHICO', '09', '12', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091206', 'OBAS', '09', '12', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('091207', 'PAMPAMARCA', '09', '12', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090000', 'HUANUCO', '09', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090100', 'HUANUCO', '09', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090102', 'AMARILIS', '09', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090103', 'HUANUCO', '09', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090104', 'CHINCHAO', '09', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090105', 'CHURUBAMBA', '09', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090106', 'MARGOS', '09', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090107', 'QUISQUI', '09', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090108', 'SAN FRANCISCO DE CAYRAN', '09', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090109', 'SAN PEDRO DE CHAULAN', '09', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090200', 'AMBO', '09', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090201', 'AMBO', '09', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090202', 'CAYNA.', '09', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090203', 'COLPAS', '09', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090204', 'CONCHAMARCA', '09', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090205', 'HUACAR', '09', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090206', 'SAN FRANCISCO', '09', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090207', 'SAN RAFAEL', '09', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090208', 'TOMAY KICHWA', '09', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090300', 'DOS DE MAYO', '09', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090301', 'LA UNION', '09', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090302', 'APARICION POMARES', '09', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090303', 'CHUQUIS', '09', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090304', 'MARIAS', '09', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090305', 'PACHAS', '09', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090306', 'QUIVILLA', '09', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090307', 'RIPAN', '09', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090308', 'SHUNQUI', '09', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090309', 'SILLAPATA', '09', '03', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090400', 'HUAMALIES', '09', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090401', 'LLATA', '09', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090402', 'ARANCAY', '09', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090403', 'CHAVIN DE PARIARCA', '09', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090404', 'JACAS GRANDE', '09', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090405', 'JIRCAN', '09', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090406', 'MIRAFLORES', '09', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090407', 'MONZON', '09', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090408', 'PUNCHAO', '09', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090409', 'PUNOS', '09', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090600', 'MARANON', '09', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090601', 'HUACRACHUCO', '09', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090602', 'CHOLON', '09', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090603', 'SAN BUENAVENTURA', '09', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090700', 'PACHITEA', '09', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090701', 'PANAO', '09', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090702', 'CHAGLLA', '09', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090703', 'MOLINO', '09', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090704', 'UMARI', '09', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090800', 'HUACAYBAMBA', '09', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090801', 'HUACAYBAMBA', '09', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090802', 'CANCHABAMBA', '09', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090803', 'COCHABAMBA', '09', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090804', 'PINRA', '09', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090900', 'LEONCIO PRADO', '09', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010200', 'BAGUA', '01', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010201', 'LA PECA', '01', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010202', 'ARAMANGO', '01', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010203', 'COPALLIN', '01', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010204', 'EL PARCO', '01', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010205', 'IMAZA', '01', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010300', 'BONGARA', '01', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010301', 'JUMBILLA', '01', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010302', 'CHISQUILLA', '01', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010303', 'CHURUJA', '01', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010304', 'COROSHA', '01', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010305', 'CUISPES', '01', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010306', 'FLORIDA', '01', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010307', 'JAZAN', '01', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010308', 'RECTA', '01', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010309', 'SAN CARLOS', '01', '03', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010400', 'CONDORCANQUI', '01', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010401', 'NIEVA', '01', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010402', 'EL CENEPA', '01', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010403', 'RIO SANTIAGO', '01', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010500', 'LUYA', '01', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010501', 'LAMUD', '01', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010502', 'CAMPORREDONDO', '01', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010503', 'COCABAMBA', '01', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010504', 'COLCAMAR', '01', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010505', 'CONILA', '01', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010506', 'INGUILPATA', '01', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010507', 'LONGUITA', '01', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010508', 'LONYA CHICO', '01', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010509', 'LUYA', '01', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010600', 'RODRIGUEZ DE MENDOZA', '01', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010601', 'SAN NICOLAS', '01', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010602', 'CHIRIMOTO', '01', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010603', 'COCHAMAL', '01', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010604', 'HUAMBO', '01', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010605', 'LIMABAMBA', '01', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010606', 'LONGAR', '01', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010607', 'MARISCAL BENAVIDES', '01', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010608', 'MILPUC', '01', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010609', 'OMIA', '01', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010700', 'UTCUBAMBA', '01', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010701', 'BAGUA GRANDE', '01', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010702', 'CAJARURO', '01', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010703', 'CUMBA', '01', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010704', 'EL MILAGRO', '01', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010705', 'JAMALCA', '01', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010706', 'LONYA GRANDE', '01', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('010707', 'YAMON', '01', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020000', 'ANCASH', '02', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020100', 'HUARAZ', '02', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020101', 'HUARAZ', '02', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020102', 'COCHABAMBA', '02', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020103', 'COLCABAMBA', '02', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020104', 'HUANCHAY', '02', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020105', 'JANGAS', '02', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020106', 'LA LIBERTAD', '02', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020107', 'OLLEROS.', '02', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020108', 'PAMPAS..', '02', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020109', 'PARIACOTO', '02', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020200', 'AIJA', '02', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020201', 'AIJA', '02', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020202', 'CORIS', '02', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020203', 'HUACLLAN', '02', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020204', 'LA MERCED', '02', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020205', 'SUCCHA', '02', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020300', 'ANTONIO RAYMONDI', '02', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020301', 'LLAMELLIN', '02', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020302', 'ACZO', '02', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020303', 'CHACCHO', '02', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020304', 'CHINGAS', '02', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020305', 'MIRGAS', '02', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020306', 'SAN JUAN DE RONTOY', '02', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020400', 'BOLOGNESI', '02', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020401', 'CHIQUIAN', '02', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020402', 'ABELARDO PARDO LEZAMETA', '02', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020403', 'ANTONIO RAYMONDI', '02', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020404', 'AQUIA', '02', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020405', 'CAJACAY', '02', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020406', 'CANIS', '02', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020407', 'COLQUIOC', '02', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020408', 'HUALLANCA', '02', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020409', 'HUASTA', '02', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020500', 'CARHUAZ', '02', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020501', 'CARHUAZ', '02', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020502', 'ACOPAMPA', '02', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020503', 'AMASHCA', '02', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020504', 'ANTA.', '02', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020505', 'ATAQUERO', '02', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020506', 'MARCARA', '02', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020507', 'PARIAHUANCA', '02', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020508', 'SAN MIGUEL DE ACO', '02', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020509', 'SHILLA', '02', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020600', 'CASMA', '02', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020601', 'CASMA', '02', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020602', 'BUENA VISTA ALTA', '02', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020603', 'COMANDANTE NOEL', '02', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020604', 'YAUTAN', '02', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020700', 'CORONGO', '02', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020701', 'CORONGO', '02', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020702', 'ACO', '02', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020703', 'BAMBAS', '02', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020704', 'CUSCA', '02', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020705', 'LA PAMPA', '02', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020706', 'YANAC', '02', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020707', 'YUPAN', '02', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020800', 'HUARI', '02', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020801', 'HUARI', '02', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020802', 'ANRA', '02', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020803', 'CAJAY', '02', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020804', 'CHAVIN DE HUANTAR', '02', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020805', 'HUACACHI', '02', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020806', 'HUACCHIS', '02', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020807', 'HUACHIS', '02', '08', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020808', 'HUANTAR', '02', '08', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020809', 'MASIN', '02', '08', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020900', 'HUAYLAS', '02', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020901', 'CARAZ', '02', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020902', 'HUALLANCA.', '02', '09', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020903', 'HUATA', '02', '09', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020904', 'HUAYLAS', '02', '09', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020905', 'MATO', '02', '09', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020906', 'PAMPAROMAS', '02', '09', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020907', 'PUEBLO LIBRE', '02', '09', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020908', 'SANTA CRUZ', '02', '09', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('020909', 'SANTO TORIBIO', '02', '09', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030000', 'APURIMAC', '03', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030100', 'ABANCAY', '03', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030101', 'ABANCAY', '03', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030102', 'CHACOCHE', '03', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030103', 'CIRCA', '03', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030104', 'CURAHUASI', '03', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030105', 'HUANIPACA', '03', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030106', 'LAMBRAMA', '03', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030107', 'PICHIRHUA', '03', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030108', 'SAN PEDRO DE CACHORA', '03', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030109', 'TAMBURCO', '03', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030200', 'ANDAHUAYLAS', '03', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030201', 'ANDAHUAYLAS', '03', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030202', 'ANDARAPA', '03', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030203', 'CHIARA', '03', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030204', 'HUANCARAMA', '03', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030205', 'HUANCARAY', '03', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030206', 'HUAYANA', '03', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030207', 'KISHUARA', '03', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030208', 'PACOBAMBA', '03', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030209', 'PACUCHA', '03', '02', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030300', 'ANTABAMBA', '03', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030301', 'ANTABAMBA', '03', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030302', 'EL ORO', '03', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030303', 'HUAQUIRCA', '03', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030304', 'JUAN ESPINOZA MEDRANO', '03', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030305', 'OROPESA', '03', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030306', 'PACHACONAS', '03', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030307', 'SABAINO', '03', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030400', 'AYMARAES', '03', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030401', 'CHALHUANCA', '03', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030402', 'CAPAYA', '03', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030403', 'CARAYBAMBA', '03', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030404', 'CHAPIMARCA', '03', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030405', 'COLCABAMBA.', '03', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030406', 'COTARUSE', '03', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030407', 'HUAYLLO', '03', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030408', 'JUSTO APU SAHUARAURA', '03', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030409', 'LUCRE', '03', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030500', 'COTABAMBAS', '03', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030501', 'TAMBOBAMBA', '03', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030502', 'COTABAMBAS', '03', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030503', 'COYLLURQUI', '03', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030504', 'HAQUIRA', '03', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030505', 'MARA', '03', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030506', 'CHALLHUAHUACHO', '03', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030600', 'GRAU', '03', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030601', 'CHUQUIBAMBILLA', '03', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030602', 'CURPAHUASI', '03', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030603', 'GAMARRA', '03', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030604', 'HUAYLLATI', '03', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030605', 'MAMARA', '03', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030606', 'MICAELA BASTIDAS', '03', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030607', 'PATAYPAMPA', '03', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030608', 'PROGRESO', '03', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030609', 'SAN ANTONIO', '03', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030700', 'CHINCHEROS', '03', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030701', 'CHINCHEROS', '03', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030702', 'ANCO-HUALLO', '03', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030703', 'COCHARCAS', '03', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030704', 'HUACCANA', '03', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030705', 'OCOBAMBA', '03', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030706', 'ONGOY', '03', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030707', 'URANMARCA', '03', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('030708', 'RANRACANCHA', '03', '07', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040000', 'AREQUIPA', '04', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040100', 'AREQUIPA', '04', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040101', 'AREQUIPA', '04', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040102', 'CAYMA', '04', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040103', 'CERRO COLORADO', '04', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040104', 'CHARACATO', '04', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040105', 'CHIGUATA', '04', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040106', 'JACOBO HUNTER', '04', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040107', 'LA JOYA', '04', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040108', 'MARIANO MELGAR', '04', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040109', 'MIRAFLORES', '04', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040200', 'CAMANA', '04', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040201', 'CAMANA', '04', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040202', 'JOSE MARIA QUIMPER', '04', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040203', 'MARIANO NICOLAS VALCARCEL', '04', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040204', 'MARISCAL CACERES', '04', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040205', 'NICOLAS DE PIEROLA', '04', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040206', 'OCONA', '04', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040207', 'QUILCA', '04', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040208', 'SAMUEL PASTOR', '04', '02', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040300', 'CARAVELI', '04', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040301', 'CARAVELI', '04', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040302', 'ACARI', '04', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040303', 'ATICO', '04', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040304', 'ATIQUIPA', '04', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040305', 'BELLA UNION', '04', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040306', 'CAHUACHO', '04', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040307', 'CHALA', '04', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040308', 'CHAPARRA', '04', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040309', 'HUANUHUANU', '04', '03', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040400', 'CAYLLOMA', '04', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040401', 'CHIVAY', '04', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040402', 'ACHOMA', '04', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040403', 'CABANACONDE', '04', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040404', 'CALLALLI', '04', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040405', 'CAYLLOMA', '04', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040406', 'COPORAQUE', '04', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040407', 'HUAMBO.', '04', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040408', 'HUANCA', '04', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040409', 'ICHUPAMPA', '04', '04', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040500', 'CONDESUYOS', '04', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040501', 'CHUQUIBAMBA.', '04', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040502', 'ANDARAY', '04', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040503', 'CAYARANI', '04', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040504', 'CHICHAS', '04', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040505', 'IRAY', '04', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040506', 'RIO GRANDE.', '04', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040507', 'SALAMANCA', '04', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040508', 'YANAQUIHUA', '04', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040600', 'ISLAY', '04', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040601', 'MOLLENDO', '04', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040602', 'COCACHACRA', '04', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040603', 'DEAN VALDIVIA', '04', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040604', 'ISLAY', '04', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040605', 'MEJIA', '04', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040606', 'PUNTA DE BOMBON', '04', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040700', 'LA UNION', '04', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040701', 'COTAHUASI', '04', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040702', 'ALCA', '04', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040703', 'CHARCANA', '04', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040704', 'HUAYNACOTAS', '04', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040705', 'PAMPAMARCA', '04', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040706', 'PUYCA', '04', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040707', 'QUECHUALLA', '04', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040708', 'SAYLA', '04', '07', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040709', 'TAURIA', '04', '07', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040800', 'CASTILLA', '04', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040801', 'APLAO', '04', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040802', 'ANDAGUA', '04', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040803', 'AYO', '04', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040804', 'CHACHAS', '04', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040805', 'CHILCAYMARCA', '04', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040806', 'CHOCO', '04', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040807', 'HUANCARQUI', '04', '08', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040808', 'MACHAGUAY', '04', '08', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('040809', 'ORCOPAMPA', '04', '08', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050000', 'AYACUCHO', '05', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050100', 'HUAMANGA', '05', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050101', 'AYACUCHO', '05', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050102', 'ACOCRO', '05', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050103', 'ACOS VINCHOS', '05', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050104', 'CARMEN ALTO', '05', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050105', 'CHIARA.', '05', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050106', 'OCROS.', '05', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050107', 'PACAYCASA', '05', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050108', 'QUINUA', '05', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050109', 'SAN JOSE DE TICLLAS', '05', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050200', 'CANGALLO', '05', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050201', 'CANGALLO', '05', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050202', 'CHUSCHI', '05', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050203', 'LOS MOROCHUCOS', '05', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050204', 'MARIA PARADO DE BELLIDO', '05', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050205', 'PARAS', '05', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050206', 'TOTOS', '05', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050300', 'HUANTA', '05', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050301', 'HUANTA', '05', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050303', 'HUAMANGUILLA', '05', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050304', 'IGUAIN', '05', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050305', 'LURICOCHA', '05', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050306', 'SANTILLANA', '05', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050307', 'SIVIA', '05', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050400', 'LA MAR', '05', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050401', 'SAN MIGUEL', '05', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050402', 'ANCO.', '05', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050403', 'AYNA', '05', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050404', 'CHILCAS', '05', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050405', 'CHUNGUI', '05', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050406', 'LUIS CARRANZA', '05', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050407', 'TAMBO', '05', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050408', 'SANTA ROSA', '05', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050500', 'LUCANAS', '05', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050501', 'PUQUIO', '05', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050502', 'AUCARA', '05', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050503', 'CABANA.', '05', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050504', 'CARMEN SALCEDO', '05', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050505', 'CHAVINA', '05', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050506', 'CHIPAO', '05', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050507', 'HUAC-HUAS', '05', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050508', 'LARAMATE', '05', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050509', 'LEONCIO PRADO.', '05', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050600', 'PARINACOCHAS', '05', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050601', 'CORACORA', '05', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050602', 'CHUMPI', '05', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050603', 'CORONEL CASTANEDA', '05', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050604', 'PACAPAUSA', '05', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050605', 'PULLO', '05', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050606', 'PUYUSCA', '05', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050607', 'SAN FCO DE RAVACAYCO', '05', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050608', 'UPAHUACHO', '05', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050700', 'VICTOR FAJARDO', '05', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050701', 'HUANCAPI', '05', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050702', 'ALCAMENCA', '05', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050703', 'APONGO', '05', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050704', 'ASQUIPATA', '05', '07', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050705', 'CANARIA', '05', '07', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050706', 'CAYARA', '05', '07', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050707', 'COLCA', '05', '07', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050708', 'HUAMANQUIQUIA', '05', '07', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050709', 'HUANCARAYLLA', '05', '07', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050900', 'HUANCA SANCOS', '05', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050901', 'SANCOS.', '05', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050902', 'CARAPO', '05', '09', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050903', 'SACSAMARCA', '05', '09', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('050904', 'STGO DE LUCANAMARCA', '05', '09', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060000', 'CAJAMARCA', '06', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060100', 'CAJAMARCA', '06', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060101', 'CAJAMARCA', '06', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060102', 'ASUNCION.', '06', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060103', 'CHETILLA', '06', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060104', 'COSPAN', '06', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060105', 'ENCANADA', '06', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060106', 'JESUS', '06', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060107', 'LLACANORA', '06', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060108', 'LOS BANOS DEL INCA', '06', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060109', 'MAGDALENA.', '06', '01', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060200', 'CAJABAMBA', '06', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060201', 'CAJABAMBA', '06', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060202', 'CACHACHI', '06', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060203', 'CONDEBAMBA', '06', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060204', 'SITACOCHA', '06', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060300', 'CELENDIN', '06', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060301', 'CELENDIN', '06', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060302', 'CHUMUCH', '06', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060303', 'CORTEGANA', '06', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060304', 'HUASMIN', '06', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060305', 'JORGE CHAVEZ', '06', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060306', 'JOSE GALVEZ', '06', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060307', 'MIGUEL IGLESIAS', '06', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060308', 'OXAMARCA', '06', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060309', 'SOROCHUCO', '06', '03', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060400', 'CONTUMAZA', '06', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060401', 'YONAN', '06', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060402', 'CONTUMAZA', '06', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060403', 'CHILETE', '06', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060404', 'CUPISNIQUE', '06', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060405', 'GUZMANGO', '06', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060406', 'SAN BENITO', '06', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060407', 'SANTA CRUZ DE TOLED', '06', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060408', 'TANTARICA', '06', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060500', 'CUTERVO', '06', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060501', 'CUTERVO', '06', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060502', 'CALLAYUC', '06', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060503', 'CHOROS', '06', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060504', 'CUJILLO', '06', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060505', 'LA RAMADA', '06', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060506', 'PIMPINGOS', '06', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060507', 'QUEROCOTILLO', '06', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060508', 'SAN ANDRES DE CUTERVO', '06', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060509', 'SAN JUAN DE CUTERVO', '06', '05', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060600', 'CHOTA', '06', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060601', 'CHOTA', '06', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060602', 'ANGUIA', '06', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060603', 'CHADIN', '06', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060604', 'CHIGUIRIP', '06', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060605', 'CHIMBAN', '06', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060606', 'COCHABAMBA.', '06', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060607', 'CONCHAN', '06', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060608', 'HUAMBOS', '06', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060609', 'LAJAS', '06', '06', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060700', 'HUALGAYOC', '06', '07', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060701', 'BAMBAMARCA', '06', '07', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060702', 'CHUGUR', '06', '07', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060703', 'HUALGAYOC', '06', '07', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060800', 'JAEN', '06', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060801', 'JAEN', '06', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060802', 'BELLAVISTA', '06', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060803', 'CHONTALI', '06', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060804', 'COLASAY', '06', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060805', 'HUABAL', '06', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060806', 'LAS PIRIAS', '06', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060807', 'POMAHUACA', '06', '08', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060808', 'PUCARA', '06', '08', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060809', 'SALLIQUE', '06', '08', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060900', 'SAN IGNACIO', '06', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060901', 'SAN IGNACIO', '06', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060902', 'CHIRINOS', '06', '09', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060903', 'HUARANGO', '06', '09', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060904', 'LA COIPA', '06', '09', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060905', 'SAN JOSE DE LOURDES', '06', '09', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060906', 'TABACONAS', '06', '09', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('060907', 'NAMBALLE', '06', '09', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070000', 'CUZCO', '07', '00', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070100', 'CUZCO', '07', '01', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070101', 'CUZCO', '07', '01', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070102', 'CCORCA', '07', '01', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070103', 'POROY', '07', '01', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070104', 'SAN JERONIMO..', '07', '01', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070105', 'SAN SEBASTIAN', '07', '01', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070106', 'SANTIAGO', '07', '01', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070107', 'SAYLLA', '07', '01', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070108', 'WANCHAQ', '07', '01', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070200', 'ACOMAYO', '07', '02', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070201', 'ACOMAYO', '07', '02', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070202', 'ACOPIA', '07', '02', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070203', 'ACOS', '07', '02', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070204', 'MOSOC LLACTA', '07', '02', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070205', 'POMACANCHI', '07', '02', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070206', 'RONDOCAN', '07', '02', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070207', 'SANGARARA', '07', '02', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070300', 'ANTA', '07', '03', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070301', 'ANTA', '07', '03', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070302', 'ANCAHUASI', '07', '03', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070303', 'CACHIMAYO', '07', '03', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070304', 'CHINCHAYPUJIO', '07', '03', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070305', 'HUAROCONDO', '07', '03', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070306', 'LIMATAMBO', '07', '03', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070307', 'MOLLEPATA', '07', '03', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070308', 'PUCYURA', '07', '03', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070309', 'ZURITE', '07', '03', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070400', 'CALCA', '07', '04', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070401', 'CALCA', '07', '04', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070402', 'COYA', '07', '04', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070403', 'LAMAY', '07', '04', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070404', 'LARES', '07', '04', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070405', 'PISAC', '07', '04', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070406', 'SAN SALVADOR', '07', '04', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070407', 'TARAY', '07', '04', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070408', 'YANATILE', '07', '04', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070500', 'CANAS', '07', '05', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070501', 'YANAOCA', '07', '05', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070502', 'CHECCA', '07', '05', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070503', 'KUNTURKANKI', '07', '05', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070504', 'LANGUI', '07', '05', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070505', 'LAYO', '07', '05', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070506', 'PAMPAMARCA.', '07', '05', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070507', 'QUEHUE', '07', '05', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070508', 'TUPAC AMARU', '07', '05', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070600', 'CANCHIS', '07', '06', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070601', 'SICUANI', '07', '06', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070602', 'CHECACUPE', '07', '06', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070603', 'COMBAPATA', '07', '06', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070604', 'MARANGANI', '07', '06', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070605', 'PITUMARCA', '07', '06', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070606', 'SAN PABLO.', '07', '06', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070607', 'SAN PEDRO', '07', '06', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070608', 'TINTA', '07', '06', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070800', 'ESPINAR', '07', '08', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070801', 'ESPINAR', '07', '08', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070802', 'CONDOROMA', '07', '08', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070803', 'COPORAQUE.', '07', '08', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070804', 'OCORURO', '07', '08', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070805', 'PALLPATA', '07', '08', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070806', 'PICHIGUA', '07', '08', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070807', 'SUYCKUTAMBO', '07', '08', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070808', 'ALTO PICHIGUA', '07', '08', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070900', 'LA CONVENCION', '07', '09', '00')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070901', 'SANTA ANA', '07', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070902', 'ECHARATE', '07', '09', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070903', 'HUAYOPATA', '07', '09', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070904', 'MARANURA', '07', '09', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070905', 'OCOBAMBA.', '07', '09', '05')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070906', 'QUELLOUNO', '07', '09', '06')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070907', 'QUIMBIRI', '07', '09', '07')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070908', 'SANTA TERESA', '07', '09', '08')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('070909', 'VILCABAMBA.', '07', '09', '09')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090901', 'RUPA-RUPA', '09', '09', '01')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090902', 'DANIEL ALOMIA ROBLES', '09', '09', '02')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090903', 'HERMILIO VALDIZAN', '09', '09', '03')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090904', 'JOSE CRESPO Y CASTILLO', '09', '09', '04')
-INSERT INTO ubigeo(ubigeo,denominacion,ubigeo_departamento,ubigeo_provincia,ubigeo_distrito) VALUES ('090906', 'MARIANO DAMASO BERAUN', '09', '09', '06')
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','01','18','010118','SAN FRANCISCO DE DAGUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','01','19','010119','SAN ISIDRO DE MAINO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','01','20','010120','SOLOCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','01','21','010121','SONCHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','02','00','010200','BAGUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','02','01','010201','LA PECA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','02','02','010202','ARAMANGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','02','03','010203','COPALLIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','02','04','010204','EL PARCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','02','05','010205','IMAZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','00','010300','BONGARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','01','010301','JUMBILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','02','010302','CHISQUILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','03','010303','CHURUJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','04','010304','COROSHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','05','010305','CUISPES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','06','010306','FLORIDA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','07','010307','JAZAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','08','010308','RECTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','09','010309','SAN CARLOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','10','010310','SHIPASBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','11','010311','VALERA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','03','12','010312','YAMBRASBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','04','00','010400','CONDORCANQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','04','01','010401','NIEVA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','04','02','010402','EL CENEPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','04','03','010403','RIO SANTIAGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','00','010500','LUYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','01','010501','LAMUD');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','02','010502','CAMPORREDONDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','03','010503','COCABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','04','010504','COLCAMAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','05','010505','CONILA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','06','010506','INGUILPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','07','010507','LONGUITA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','08','010508','LONYA CHICO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','09','010509','LUYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','10','010510','LUYA VIEJO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','11','010511','MARIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','12','010512','OCALLI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','13','010513','OCUMAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','14','010514','PISUQUIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','15','010515','PROVIDENCIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','16','010516','SAN CRISTOBAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','17','010517','SAN FRANCISCO DEL YESO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','18','010518','SAN JERONIMO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','19','010519','SAN JUAN DE LOPECANCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','20','010520','SANTA CATALINA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','21','010521','SANTO TOMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','22','010522','TINGO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','05','23','010523','TRITA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','00','010600','RODRIGUEZ DE MENDOZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','01','010601','SAN NICOLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','02','010602','CHIRIMOTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','03','010603','COCHAMAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','04','010604','HUAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','05','010605','LIMABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','06','010606','LONGAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','07','010607','MARISCAL BENAVIDES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','08','010608','MILPUC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','09','010609','OMIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','10','010610','SANTA ROSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','11','010611','TOTORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','06','12','010612','VISTA ALEGRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','07','00','010700','UTCUBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','07','01','010701','BAGUA GRANDE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','07','02','010702','CAJARURO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','07','03','010703','CUMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','07','04','010704','EL MILAGRO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','07','05','010705','JAMALCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','07','06','010706','LONYA GRANDE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','07','07','010707','YAMON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('01','01','01','010101','HUAMANGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','00','00','020000','ANCASH');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','00','020100','HUARAZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','01','020101','HUARAZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','02','020102','COCHABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','03','020103','COLCABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','04','020104','HUANCHAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','05','020105','JANGAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','06','020106','LA LIBERTAD');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','07','020107','OLLEROS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','08','020108','PAMPAS..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','09','020109','PARIACOTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','10','020110','PIRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','11','020111','TARICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','01','12','020112','INDEPENDENCIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','02','00','020200','AIJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','02','01','020201','AIJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','02','02','020202','CORIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','02','03','020203','HUACLLAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','02','04','020204','LA MERCED');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','02','05','020205','SUCCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','03','00','020300','ANTONIO RAYMONDI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','03','01','020301','LLAMELLIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','03','02','020302','ACZO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','03','03','020303','CHACCHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','03','04','020304','CHINGAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','03','05','020305','MIRGAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','03','06','020306','SAN JUAN DE RONTOY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','00','020400','BOLOGNESI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','01','020401','CHIQUIAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','02','020402','ABELARDO PARDO LEZAMETA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','03','020403','ANTONIO RAYMONDI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','04','020404','AQUIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','05','020405','CAJACAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','06','020406','CANIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','07','020407','COLQUIOC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','08','020408','HUALLANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','09','020409','HUASTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','10','020410','HUAYLLACAYAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','11','020411','LA PRIMAVERA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','12','020412','MANGAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','13','020413','PACLLON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','14','020414','SAN MIGUEL DE CORPANQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','04','15','020415','TICLLOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','00','020500','CARHUAZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','01','020501','CARHUAZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','02','020502','ACOPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','03','020503','AMASHCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','04','020504','ANTA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','05','020505','ATAQUERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','06','020506','MARCARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','07','020507','PARIAHUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','08','020508','SAN MIGUEL DE ACO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','09','020509','SHILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','10','020510','TINCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','05','11','020511','YUNGAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','06','00','020600','CASMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','06','01','020601','CASMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','06','02','020602','BUENA VISTA ALTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','06','03','020603','COMANDANTE NOEL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','06','04','020604','YAUTAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','07','00','020700','CORONGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','07','01','020701','CORONGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','07','02','020702','ACO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','07','03','020703','BAMBAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','07','04','020704','CUSCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','07','05','020705','LA PAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','07','06','020706','YANAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','07','07','020707','YUPAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','00','020800','HUARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','01','020801','HUARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','02','020802','ANRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','03','020803','CAJAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','04','020804','CHAVIN DE HUANTAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','05','020805','HUACACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','06','020806','HUACCHIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','07','020807','HUACHIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','08','020808','HUANTAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','09','020809','MASIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','10','020810','PAUCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','11','020811','PONTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','12','020812','RAHUAPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','13','020813','RAPAYAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','14','020814','SAN MARCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','15','020815','SAN PEDRO DE CHANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','08','16','020816','UCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','00','020900','HUAYLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','01','020901','CARAZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','02','020902','HUALLANCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','03','020903','HUATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','04','020904','HUAYLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','05','020905','MATO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','06','020906','PAMPAROMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','07','020907','PUEBLO LIBRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','08','020908','SANTA CRUZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','09','020909','SANTO TORIBIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','09','10','020910','YURACMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','00','021000','MARISCAL LUZURIAGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','01','021001','PISCOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','02','021002','CASCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','03','021003','ELEAZAR GUZMAN BARRON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','04','021004','FIDEL OLIVAS ESCUDERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','05','021005','LLAMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','06','021006','LLUMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','07','021007','LUCMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','10','08','021008','MUSGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','00','021100','PALLASCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','01','021101','CABANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','02','021102','BOLOGNESI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','03','021103','CONCHUCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','04','021104','HUACASCHUQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','05','021105','HUANDOVAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','06','021106','LACABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','07','021107','LLAPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','08','021108','PALLASCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','09','021109','PAMPAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','10','021110','SANTA ROSA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','11','11','021111','TAUCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','12','00','021200','POMABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','12','01','021201','POMABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','12','02','021202','HUAYLLAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','12','03','021203','PAROBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','12','04','021204','QUINUABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','00','021300','RECUAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','01','021301','RECUAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','02','021302','CATAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','03','021303','COTAPARACO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','04','021304','HUAYLLAPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','05','021305','LLACLLIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','06','021306','MARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','07','021307','PAMPAS CHICO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','08','021308','PARARIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','09','021309','TAPACOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','13','10','021310','TICAPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','00','021400','SANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','01','021401','CHIMBOTE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','02','021402','CACERES DEL PERU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','03','021403','COISHCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','04','021404','MACATE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','05','021405','MORO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','06','021406','NEPENA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','07','021407','SAMANCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','08','021408','SANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','14','09','021409','NUEVO CHIMBOTE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','00','021500','SIHUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','01','021501','SIHUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','02','021502','ACOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','03','021503','ALFONSO UGARTE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','04','021504','CASHAPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','05','021505','CHINGALPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','06','021506','HUAYABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','07','021507','QUICHES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','08','021508','RAGASH');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','09','021509','SAN JUAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','15','10','021510','SICSIBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','00','021600','YUNGAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','01','021601','YUNGAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','02','021602','CASCAPARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','03','021603','MANCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','04','021604','MATACOTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','05','021605','QUILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','06','021606','RANRAHILCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','07','021607','SHUPLUY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','16','08','021608','YANAMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','18','00','021800','ASUNCION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','18','01','021801','CHACAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','18','02','021802','ACOCHACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','19','00','021900','CARLOS FERMIN FITZCARRALD');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','19','01','021901','SAN LUIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','19','02','021902','SAN NICOLAS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','19','03','021903','YAUYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','20','00','022000','HUARMEY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','20','01','022001','HUARMEY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','20','02','022002','COCHAPETI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','20','03','022003','CULEBRAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','20','04','022004','HUAYAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','20','05','022005','MALVAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','00','022200','OCROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','01','022201','OCROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','02','022202','ACAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','03','022203','CAJAMARQUILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','04','022204','CARHUAPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','05','022205','COCHAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','06','022206','CONGAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','07','022207','LLIPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','08','022208','SAN CRISTOBAL DE RAJAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','09','022209','SAN PEDRO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('02','22','10','022210','SANTIAGO DE CHILCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','00','00','030000','APURIMAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','00','030100','ABANCAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','01','030101','ABANCAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','02','030102','CHACOCHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','03','030103','CIRCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','04','030104','CURAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','05','030105','HUANIPACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','06','030106','LAMBRAMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','07','030107','PICHIRHUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','08','030108','SAN PEDRO DE CACHORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','01','09','030109','TAMBURCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','00','030200','ANDAHUAYLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','01','030201','ANDAHUAYLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','02','030202','ANDARAPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','03','030203','CHIARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','04','030204','HUANCARAMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','05','030205','HUANCARAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','06','030206','HUAYANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','07','030207','KISHUARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','08','030208','PACOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','09','030209','PACUCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','10','030210','PAMPACHIRI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','11','030211','POMACOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','12','030212','SAN ANTONIO DE CACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','13','030213','SAN JERONIMO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','14','030214','SAN MIGUEL DE CHACCRAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','15','030215','SANTA MARIA DE CHICMO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','16','030216','TALAVERA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','17','030217','TUMAY HUARACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','18','030218','TURPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','02','19','030219','KAQUIABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','03','00','030300','ANTABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','03','01','030301','ANTABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','03','02','030302','EL ORO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','03','03','030303','HUAQUIRCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','03','04','030304','JUAN ESPINOZA MEDRANO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','03','05','030305','OROPESA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','03','06','030306','PACHACONAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','03','07','030307','SABAINO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','00','030400','AYMARAES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','01','030401','CHALHUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','02','030402','CAPAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','03','030403','CARAYBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','04','030404','CHAPIMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','05','030405','COLCABAMBA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','06','030406','COTARUSE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','07','030407','HUAYLLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','08','030408','JUSTO APU SAHUARAURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','09','030409','LUCRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','10','030410','POCOHUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','11','030411','SAN JUAN DE CHACNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','12','030412','SANAYCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','13','030413','SORAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','14','030414','TAPAIRIHUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','15','030415','TINTAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','16','030416','TORAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','04','17','030417','YANACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','05','00','030500','COTABAMBAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','05','01','030501','TAMBOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','05','02','030502','COTABAMBAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','05','03','030503','COYLLURQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','05','04','030504','HAQUIRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','05','05','030505','MARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','05','06','030506','CHALLHUAHUACHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','00','030600','GRAU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','01','030601','CHUQUIBAMBILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','02','030602','CURPAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','03','030603','GAMARRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','04','030604','HUAYLLATI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','05','030605','MAMARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','06','030606','MICAELA BASTIDAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','07','030607','PATAYPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','08','030608','PROGRESO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','09','030609','SAN ANTONIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','10','030610','SANTA ROSA..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','11','030611','TURPAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','12','030612','VILCABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','13','030613','VIRUNDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','06','14','030614','CURASCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','00','030700','CHINCHEROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','01','030701','CHINCHEROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','02','030702','ANCO-HUALLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','03','030703','COCHARCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','04','030704','HUACCANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','05','030705','OCOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','06','030706','ONGOY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','07','030707','URANMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('03','07','08','030708','RANRACANCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','00','00','040000','AREQUIPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','00','040100','AREQUIPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','01','040101','AREQUIPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','02','040102','CAYMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','03','040103','CERRO COLORADO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','04','040104','CHARACATO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','05','040105','CHIGUATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','06','040106','JACOBO HUNTER');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','07','040107','LA JOYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','08','040108','MARIANO MELGAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','09','040109','MIRAFLORES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','10','040110','MOLLEBAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','11','040111','PAUCARPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','12','040112','POCSI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','13','040113','POLOBAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','14','040114','QUEQUENA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','15','040115','SABANDIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','16','040116','SACHACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','17','040117','SAN JUAN DE SIGUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','18','040118','SAN JUAN DE TARUCANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','19','040119','SANTA ISABEL DE SIGUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','20','040120','SANTA RITA DE SIGUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','21','040121','SOCABAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','22','040122','TIABAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','23','040123','UCHUMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','24','040124','VITOR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','25','040125','YANAHUARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','26','040126','YARABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','27','040127','YURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','28','040128','JOSE LUIS BUSTAMANTE Y RI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','29','040129','ALTO SELVA ALEGRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','01','30','040130','VALLECITO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','00','040200','CAMANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','01','040201','CAMANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','02','040202','JOSE MARIA QUIMPER');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','03','040203','MARIANO NICOLAS VALCARCEL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','04','040204','MARISCAL CACERES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','05','040205','NICOLAS DE PIEROLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','06','040206','OCONA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','07','040207','QUILCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','02','08','040208','SAMUEL PASTOR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','00','040300','CARAVELI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','01','040301','CARAVELI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','02','040302','ACARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','03','040303','ATICO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','04','040304','ATIQUIPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','05','040305','BELLA UNION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','06','040306','CAHUACHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','07','040307','CHALA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','08','040308','CHAPARRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','09','040309','HUANUHUANU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','10','040310','JAQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','11','040311','LOMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','12','040312','QUICACHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','03','13','040313','YAUCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','00','040400','CAYLLOMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','01','040401','CHIVAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','02','040402','ACHOMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','03','040403','CABANACONDE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','04','040404','CALLALLI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','05','040405','CAYLLOMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','06','040406','COPORAQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','07','040407','HUAMBO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','08','040408','HUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','09','040409','ICHUPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','10','040410','LARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','11','040411','LLUTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','12','040412','MACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','13','040413','MADRIGAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','14','040414','SAN ANTONIO DE CHUCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','15','040415','SIBAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','16','040416','TAPAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','17','040417','TISCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','18','040418','TUTI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','04','19','040419','YANQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','00','040500','CONDESUYOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','01','040501','CHUQUIBAMBA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','02','040502','ANDARAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','03','040503','CAYARANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','04','040504','CHICHAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','05','040505','IRAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','06','040506','RIO GRANDE.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','07','040507','SALAMANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','05','08','040508','YANAQUIHUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','06','00','040600','ISLAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','06','01','040601','MOLLENDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','06','02','040602','COCACHACRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','06','03','040603','DEAN VALDIVIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','06','04','040604','ISLAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','06','05','040605','MEJIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','06','06','040606','PUNTA DE BOMBON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','00','040700','LA UNION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','01','040701','COTAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','02','040702','ALCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','03','040703','CHARCANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','04','040704','HUAYNACOTAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','05','040705','PAMPAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','06','040706','PUYCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','07','040707','QUECHUALLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','08','040708','SAYLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','09','040709','TAURIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','10','040710','TOMEPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','07','11','040711','TORO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','00','040800','CASTILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','01','040801','APLAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','02','040802','ANDAGUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','03','040803','AYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','04','040804','CHACHAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','05','040805','CHILCAYMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','06','040806','CHOCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','07','040807','HUANCARQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','08','040808','MACHAGUAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','09','040809','ORCOPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','10','040810','PAMPACOLCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','11','040811','TIPAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','12','040812','UNON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','13','040813','URACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('04','08','14','040814','VIRACO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','00','00','050000','AYACUCHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','00','050100','HUAMANGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','01','050101','AYACUCHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','02','050102','ACOCRO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','03','050103','ACOS VINCHOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','04','050104','CARMEN ALTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','05','050105','CHIARA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','06','050106','OCROS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','07','050107','PACAYCASA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','08','050108','QUINUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','09','050109','SAN JOSE DE TICLLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','10','050110','SAN JUAN BAUTISTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','11','050111','SANTIAGO DE PISCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','12','050112','SOCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','13','050113','TAMBILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','01','14','050114','VINCHOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','02','00','050200','CANGALLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','02','01','050201','CANGALLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','02','02','050202','CHUSCHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','02','03','050203','LOS MOROCHUCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','02','04','050204','MARIA PARADO DE BELLIDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','02','05','050205','PARAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','02','06','050206','TOTOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','03','00','050300','HUANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','03','01','050301','HUANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','03','02','050302','AYAHUANCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','03','03','050303','HUAMANGUILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','03','04','050304','IGUAIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','03','05','050305','LURICOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','03','06','050306','SANTILLANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','03','07','050307','SIVIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','00','050400','LA MAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','01','050401','SAN MIGUEL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','02','050402','ANCO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','03','050403','AYNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','04','050404','CHILCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','05','050405','CHUNGUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','06','050406','LUIS CARRANZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','07','050407','TAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','04','08','050408','SANTA ROSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','00','050500','LUCANAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','01','050501','PUQUIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','02','050502','AUCARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','03','050503','CABANA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','04','050504','CARMEN SALCEDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','05','050505','CHAVINA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','06','050506','CHIPAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','07','050507','HUAC-HUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','08','050508','LARAMATE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','09','050509','LEONCIO PRADO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','10','050510','LLAUTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','11','050511','LUCANAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','12','050512','OCANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','13','050513','OTOCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','14','050514','SAISA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','15','050515','SAN CRISTOBAL.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','16','050516','SAN JUAN.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','17','050517','SAN PEDRO..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','18','050518','SAN PEDRO DE PALCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','19','050519','SANCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','20','050520','STA ANA DE HUAYCAHUACHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','05','21','050521','SANTA LUCIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','00','050600','PARINACOCHAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','01','050601','CORACORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','02','050602','CHUMPI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','03','050603','CORONEL CASTANEDA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','04','050604','PACAPAUSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','05','050605','PULLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','06','050606','PUYUSCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','07','050607','SAN FCO DE RAVACAYCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','06','08','050608','UPAHUACHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','00','050700','VICTOR FAJARDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','01','050701','HUANCAPI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','02','050702','ALCAMENCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','03','050703','APONGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','04','050704','ASQUIPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','05','050705','CANARIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','06','050706','CAYARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','07','050707','COLCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','08','050708','HUAMANQUIQUIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','09','050709','HUANCARAYLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','10','050710','HUAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','11','050711','SARHUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','07','12','050712','VILCANCHOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','09','00','050900','HUANCA SANCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','09','01','050901','SANCOS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','09','02','050902','CARAPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','09','03','050903','SACSAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','09','04','050904','STGO DE LUCANAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','00','051000','PAUCAR DEL SARA SARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','01','051001','PAUSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','02','051002','COLTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','03','051003','CORCULLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','04','051004','LAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','05','051005','MARCABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','06','051006','OYOLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','07','051007','PARARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','08','051008','SAN JAVIER DE ALPABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','09','051009','SAN JOSE DE USHUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','10','10','051010','SARA SARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','00','051100','SUCRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','01','051101','QUEROBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','02','051102','BELEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','03','051103','CHALCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','04','051104','CHILCAYOC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','05','051105','HUACANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','06','051106','MORCOLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','07','051107','PAICO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','08','051108','SAN PEDRO DE LARCAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','09','051109','SAN SALVADOR DE QUIJE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','10','051110','SANTIAGO DE PAUCARAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','11','11','051111','SORAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','00','051200','VILCAS HUAMAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','01','051201','VILCAS HUAMAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','02','051202','ACCOMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','03','051203','CARHUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','04','051204','CONCEPCION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','05','051205','HUAMBALPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','06','051206','INDEPENDENCIA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','07','051207','SAURAMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('05','12','08','051208','VISCHONGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','00','00','060000','CAJAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','00','060100','CAJAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','01','060101','CAJAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','02','060102','ASUNCION.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','03','060103','CHETILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','04','060104','COSPAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','05','060105','ENCANADA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','06','060106','JESUS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','07','060107','LLACANORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','08','060108','LOS BANOS DEL INCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','09','060109','MAGDALENA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','10','060110','MATARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','11','060111','NAMORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','01','12','060112','SAN JUAN..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','02','00','060200','CAJABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','02','01','060201','CAJABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','02','02','060202','CACHACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','02','03','060203','CONDEBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','02','04','060204','SITACOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','00','060300','CELENDIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','01','060301','CELENDIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','02','060302','CHUMUCH');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','03','060303','CORTEGANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','04','060304','HUASMIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','05','060305','JORGE CHAVEZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','06','060306','JOSE GALVEZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','07','060307','MIGUEL IGLESIAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','08','060308','OXAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','09','060309','SOROCHUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','10','060310','SUCRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','11','060311','UTCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','03','12','060312','LA LIBERTAD DE PALLAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','00','060400','CONTUMAZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','01','060401','YONAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','02','060402','CONTUMAZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','03','060403','CHILETE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','04','060404','CUPISNIQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','05','060405','GUZMANGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','06','060406','SAN BENITO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','07','060407','SANTA CRUZ DE TOLED');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','04','08','060408','TANTARICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','00','060500','CUTERVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','01','060501','CUTERVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','02','060502','CALLAYUC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','03','060503','CHOROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','04','060504','CUJILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','05','060505','LA RAMADA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','06','060506','PIMPINGOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','07','060507','QUEROCOTILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','08','060508','SAN ANDRES DE CUTERVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','09','060509','SAN JUAN DE CUTERVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','10','060510','SAN LUIS DE LUCMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','11','060511','SANTA CRUZ.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','12','060512','STO DOMINGO DE LA CAPILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','13','060513','SANTO TOMAS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','14','060514','SOCOTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','05','15','060515','TORIBIO CASANOVA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','00','060600','CHOTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','01','060601','CHOTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','02','060602','ANGUIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','03','060603','CHADIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','04','060604','CHIGUIRIP');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','05','060605','CHIMBAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','06','060606','COCHABAMBA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','07','060607','CONCHAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','08','060608','HUAMBOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','09','060609','LAJAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','10','060610','LLAMA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','11','060611','MIRACOSTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','12','060612','PACCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','13','060613','PION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','14','060614','QUEROCOTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','15','060615','SAN JUAN DE LICUPIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','16','060616','TACABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','17','060617','TOCMOCHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','18','060618','CHOROPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','06','19','060619','CHALAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','07','00','060700','HUALGAYOC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','07','01','060701','BAMBAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','07','02','060702','CHUGUR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','07','03','060703','HUALGAYOC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','00','060800','JAEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','01','060801','JAEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','02','060802','BELLAVISTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','03','060803','CHONTALI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','04','060804','COLASAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','05','060805','HUABAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','06','060806','LAS PIRIAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','07','060807','POMAHUACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','08','060808','PUCARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','09','060809','SALLIQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','10','060810','SAN FELIPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','11','060811','SAN JOSE DEL ALTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','08','12','060812','SANTA ROSA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','09','00','060900','SAN IGNACIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','09','01','060901','SAN IGNACIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','09','02','060902','CHIRINOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','09','03','060903','HUARANGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','09','04','060904','LA COIPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','09','05','060905','SAN JOSE DE LOURDES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','09','06','060906','TABACONAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','09','07','060907','NAMBALLE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','00','061000','SAN MIGUEL.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','01','061001','SAN MIGUEL.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','02','061002','BOLIVAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','03','061003','CALQUIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','04','061004','CATILLUC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','05','061005','EL PRADO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','06','061006','LA FLORIDA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','07','061007','LLAPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','08','061008','NANCHOC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','09','061009','NIEPOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','10','061010','SAN GREGORIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','11','061011','SAN SILVESTRE DE COCHAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','12','061012','TONGOD');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','10','13','061013','UNION AGUA BLANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','00','061100','SANTA CRUZ..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','01','061101','SANTA CRUZ..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','02','061102','ANDABAMBA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','03','061103','CATACHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','04','061104','CHANCAYBANOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','05','061105','LA ESPERANZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','06','061106','NINABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','07','061107','PULAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','08','061108','SAUCEPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','09','061109','SEXI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','10','061110','UTICYACU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','11','11','061111','YAUYUCAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','12','00','061200','SAN MARCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','12','01','061201','PEDRO GALVEZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','12','02','061202','EDUARDO VILLANUEVA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','12','03','061203','GREGORIO PITA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','12','04','061204','ICHOCAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','12','05','061205','JOSE MANUEL QUIROZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','12','06','061206','JOSE SABOGAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','12','07','061207','CHANCAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','13','00','061300','SAN PABLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','13','01','061301','SAN PABLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','13','02','061302','SAN BERNARDINO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','13','03','061303','SAN LUIS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('06','13','04','061304','TUMBADEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','09','071009','YAURISQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','11','00','071100','PAUCARTAMBO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','11','01','071101','PAUCARTAMBO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','11','02','071102','CAICAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','11','03','071103','CHALLABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','11','04','071104','COLQUEPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','11','05','071105','HUANCARANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','11','06','071106','KOSNIPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','00','071200','QUISPICANCHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','01','071201','URCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','02','071202','ANDAHUAYLILLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','03','071203','CAMANTI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','04','071204','CCARHUAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','05','071205','CCATCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','06','071206','CUSIPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','07','071207','HUARO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','08','071208','LUCRE.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','09','071209','MARCAPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','10','071210','OCONGATE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','11','071211','OROPESA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','12','12','071212','QUIQUIJANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','13','00','071300','URUBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','13','01','071301','URUBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','13','02','071302','CHINCHERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','13','03','071303','HUAYLLABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','13','04','071304','MACHUPICCHU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','13','05','071305','MARAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','13','06','071306','OLLANTAYTAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','13','07','071307','YUCAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','00','071400','CHUMBIVILCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','01','071401','SANTO TOMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','02','071402','CAPACMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','03','071403','CHAMACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','04','071404','COLQUEMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','05','071405','LIVITACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','06','071406','LLUSCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','07','071407','QUINOTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','14','08','071408','VELILLE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','00','00','070000','CUZCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','00','070100','CUZCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','01','070101','CUZCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','02','070102','CCORCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','03','070103','POROY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','04','070104','SAN JERONIMO..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','05','070105','SAN SEBASTIAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','06','070106','SANTIAGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','07','070107','SAYLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','01','08','070108','WANCHAQ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','02','00','070200','ACOMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','02','01','070201','ACOMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','02','02','070202','ACOPIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','02','03','070203','ACOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','02','04','070204','MOSOC LLACTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','02','05','070205','POMACANCHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','02','06','070206','RONDOCAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','02','07','070207','SANGARARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','00','070300','ANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','01','070301','ANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','02','070302','ANCAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','03','070303','CACHIMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','04','070304','CHINCHAYPUJIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','05','070305','HUAROCONDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','06','070306','LIMATAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','07','070307','MOLLEPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','08','070308','PUCYURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','03','09','070309','ZURITE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','00','070400','CALCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','01','070401','CALCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','02','070402','COYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','03','070403','LAMAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','04','070404','LARES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','05','070405','PISAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','06','070406','SAN SALVADOR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','07','070407','TARAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','04','08','070408','YANATILE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','00','070500','CANAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','01','070501','YANAOCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','02','070502','CHECCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','03','070503','KUNTURKANKI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','04','070504','LANGUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','05','070505','LAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','06','070506','PAMPAMARCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','07','070507','QUEHUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','05','08','070508','TUPAC AMARU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','00','070600','CANCHIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','01','070601','SICUANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','02','070602','CHECACUPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','03','070603','COMBAPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','04','070604','MARANGANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','05','070605','PITUMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','06','070606','SAN PABLO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','07','070607','SAN PEDRO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','06','08','070608','TINTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','00','070800','ESPINAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','01','070801','ESPINAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','02','070802','CONDOROMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','03','070803','COPORAQUE.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','04','070804','OCORURO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','05','070805','PALLPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','06','070806','PICHIGUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','07','070807','SUYCKUTAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','08','08','070808','ALTO PICHIGUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','00','070900','LA CONVENCION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','01','070901','SANTA ANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','02','070902','ECHARATE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','03','070903','HUAYOPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','04','070904','MARANURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','05','070905','OCOBAMBA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','06','070906','QUELLOUNO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','07','070907','QUIMBIRI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','08','070908','SANTA TERESA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','09','070909','VILCABAMBA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','09','10','070910','PICHARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','00','071000','PARURO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','01','071001','PARURO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','02','071002','ACCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','03','071003','CCAPI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','04','071004','COLCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','05','071005','HUANOQUITE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','06','071006','OMACHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','07','071007','PACCARITAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('07','10','08','071008','PILLPINTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','00','00','080000','HUANCAVELICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','00','080100','HUANCAVELICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','01','080101','HUANCAVELICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','02','080102','ACOBAMBILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','03','080103','ACORIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','04','080104','CONAYCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','05','080105','CUENCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','06','080106','HUACHOCOLPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','07','080107','HUAYLLAHUARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','08','080108','IZCUCHACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','09','080109','LARIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','10','080110','MANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','11','080111','MARISCAL CACERES.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','12','080112','MOYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','13','080113','NUEVO OCCORO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','14','080114','PALCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','15','080115','PILCHACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','16','080116','VILCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','01','17','080117','YAULI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','00','080200','ACOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','01','080201','ACOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','02','080202','ANDABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','03','080203','ANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','04','080204','CAJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','05','080205','MARCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','06','080206','PAUCARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','07','080207','POMACOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','02','08','080208','ROSARIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','00','080300','ANGARAES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','01','080301','LIRCAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','02','080302','ANCHONGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','03','080303','CALLANMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','04','080304','CCOCHACCASA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','05','080305','CHINCHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','06','080306','CONGALLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','07','080307','HUANCA-HUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','08','080308','HUAYLLAY GRANDE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','09','080309','JULCAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','10','080310','SAN ANTONIO DE ANTAPARCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','11','080311','SANTO TOMAS DE PATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','03','12','080312','SECCLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','00','080400','TAYACAJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','01','080401','PAMPAS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','02','080402','ACOSTAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','03','080403','ACRAQUIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','04','080404','AHUAYCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','05','080405','COLCABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','06','080406','DANIEL HERNANDEZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','07','080407','HUACHOCOLPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','08','080408','HUANDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','09','080409','HUARIBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','10','080410','NAHUIMPUQUIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','11','080411','PAZOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','12','080412','PACHAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','13','080413','QUISHUAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','14','080414','SALCABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','15','080415','SALCAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','16','080416','SAN MARCOS DE ROCCHAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','17','080417','SURCUBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','04','18','080418','TINTAY PUNCU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','00','080500','CASTROVIRREYNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','01','080501','CASTROVIRREYNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','02','080502','ARMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','03','080503','AURAHUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','04','080504','CAPILLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','05','080505','CHUPAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','06','080506','COCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','07','080507','HUACHOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','08','080508','HUAMATAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','09','080509','MOLLEPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','10','080510','SAN JUAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','11','080511','SANTA ANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','12','080512','TANTARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','05','13','080513','TICRAPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','00','080600','CHURCAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','01','080601','CHURCAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','02','080602','ANCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','03','080603','CHINCHIHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','04','080604','EL CARMEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','05','080605','LA MERCED.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','06','080606','LOCROJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','08','080608','PAUCARBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','09','080609','SAN MIGUEL DE MAYOCC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','06','10','080610','SAN PEDRO DE CORIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','00','080700','HUAYTARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','01','080701','HUAYTARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','02','080702','AYAVI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','03','080703','CORDOVA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','04','080704','HUAYACUNDO ARMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','05','080705','LARAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','06','080706','OCOYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','07','080707','PILPICHACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','08','080708','QUERCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','09','080709','QUITO-ARMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','10','080710','SAN ANTONIO DE CUSICANCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','11','080711','SAN FCO DE SANGAYAICO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','12','080712','SAN ISIDRO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','13','080713','SANTIAGO DE CHOCORVOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','14','080714','SANTIAGO DE QUIRAHUARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','15','080715','SANTO DOMINGO DE CAPILLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('08','07','16','080716','TAMBO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','00','00','090000','HUANUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','00','090100','HUANUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','02','090102','AMARILIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','03','090103','HUANUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','04','090104','CHINCHAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','05','090105','CHURUBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','06','090106','MARGOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','07','090107','QUISQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','08','090108','SAN FRANCISCO DE CAYRAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','09','090109','SAN PEDRO DE CHAULAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','10','090110','SANTA MARIA DEL VALLE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','01','11','090111','YARUMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','00','090200','AMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','01','090201','AMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','02','090202','CAYNA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','03','090203','COLPAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','04','090204','CONCHAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','05','090205','HUACAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','06','090206','SAN FRANCISCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','07','090207','SAN RAFAEL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','02','08','090208','TOMAY KICHWA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','00','090300','DOS DE MAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','01','090301','LA UNION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','02','090302','APARICION POMARES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','03','090303','CHUQUIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','04','090304','MARIAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','05','090305','PACHAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','06','090306','QUIVILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','07','090307','RIPAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','08','090308','SHUNQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','09','090309','SILLAPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','03','10','090310','YANAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','00','090400','HUAMALIES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','01','090401','LLATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','02','090402','ARANCAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','03','090403','CHAVIN DE PARIARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','04','090404','JACAS GRANDE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','05','090405','JIRCAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','06','090406','MIRAFLORES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','07','090407','MONZON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','08','090408','PUNCHAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','09','090409','PUNOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','10','090410','SINGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','04','11','090411','TANTAMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','06','00','090600','MARANON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','06','01','090601','HUACRACHUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','06','02','090602','CHOLON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','06','03','090603','SAN BUENAVENTURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','07','00','090700','PACHITEA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','07','01','090701','PANAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','07','02','090702','CHAGLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','07','03','090703','MOLINO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','07','04','090704','UMARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','08','00','090800','HUACAYBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','08','01','090801','HUACAYBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','08','02','090802','CANCHABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','08','03','090803','COCHABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','08','04','090804','PINRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','09','00','090900','LEONCIO PRADO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','09','01','090901','RUPA-RUPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','09','02','090902','DANIEL ALOMIA ROBLES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','09','03','090903','HERMILIO VALDIZAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','09','04','090904','JOSE CRESPO Y CASTILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','09','05','090905','LUYANDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','09','06','090906','MARIANO DAMASO BERAUN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','10','00','091000','PUERTO INCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','10','01','091001','PUERTO INCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','10','02','091002','CODO DEL POZUZO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','10','03','091003','HONORIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','10','04','091004','TOURNAVISTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','10','05','091005','YUYAPICHIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','11','00','091100','LAURICOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','11','01','091101','JESUS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','11','02','091102','BANOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','11','03','091103','JIVIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','11','04','091104','QUEROPALCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','11','05','091105','RONDOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','11','06','091106','SAN FRANCISCO DE ASIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','11','07','091107','SAN MIGUEL DE CAURI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','12','00','091200','YAROWILCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','12','01','091201','CHAVINILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','12','02','091202','CAHUAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','12','03','091203','CHACABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','12','04','091204','CHUPAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','12','05','091205','JACAS CHICO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','12','06','091206','OBAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('09','12','07','091207','PAMPAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','00','00','100000','ICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','00','100100','ICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','01','100101','ICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','02','100102','LA TINGUINA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','03','100103','LOS AQUIJES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','04','100104','OCUCAJE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','05','100105','PACHACUTEC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','06','100106','PARCONA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','07','100107','PUEBLO NUEVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','08','100108','SALAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','09','100109','SAN JOSE DE LOS MOLINOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','10','100110','SAN JUAN BAUTISTA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','11','100111','SANTIAGO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','12','100112','SUBTANJALLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','13','100113','TATE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','01','14','100114','YAUCA DEL ROSARIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','00','100200','CHINCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','01','100201','CHINCHA ALTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','02','100202','ALTO LARAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','03','100203','CHAVIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','04','100204','CHINCHA BAJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','05','100205','EL CARMEN.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','06','100206','GROCIO PRADO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','07','100207','PUEBLO NUEVO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','08','100208','SAN JUAN DE YANAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','09','100209','SAN PEDRO DE HUACARPANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','10','100210','SUNAMPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','02','11','100211','TAMBO DE MORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','03','00','100300','NAZCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','03','01','100301','NAZCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','03','02','100302','CHANGUILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','03','03','100303','EL INGENIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','03','04','100304','MARCONA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','03','05','100305','VISTA ALEGRE.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','04','00','100400','PALPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','04','01','100401','PALPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','04','02','100402','LLIPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','04','03','100403','RIO GRANDE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','04','04','100404','SANTA CRUZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','04','05','100405','TIBILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','00','100500','PISCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','01','100501','PISCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','02','100502','HUANCANO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','03','100503','HUMAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','04','100504','INDEPENDENCIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','05','100505','PARACAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','06','100506','SAN ANDRES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','07','100507','SAN CLEMENTE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('10','05','08','100508','TUPAC AMARU INCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','00','00','110000','JUNIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','00','110100','HUANCAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','01','110101','HUANCAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','02','110102','CARHUACALLANGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','03','110103','CHACAPAMPA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','04','110104','CHICCHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','05','110105','CHILCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','06','110106','CHONGOS ALTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','07','110107','CHUPURO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','08','110108','COLCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','09','110109','CULLHUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','10','110110','EL TAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','11','110111','HUACRAPUQUIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','12','110112','HUALHUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','13','110113','HUANCAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','14','110114','HUASICANCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','15','110115','HUAYUCACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','16','110116','INGENIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','17','110117','PARIAHUANCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','18','110118','PILCOMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','19','110119','PUCARA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','20','110120','QUICHUAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','21','110121','QUILCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','22','110122','SAN AGUSTIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','23','110123','SAN JERONIMO DE TUNAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','24','110124','SANO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','25','110125','SAPALLANGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','26','110126','SICAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','27','110127','STO DOMINGO DE ACOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','01','28','110128','VIQUES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','00','110200','CONCEPCION.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','01','110201','CONCEPCION.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','02','110202','ACO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','03','110203','ANDAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','04','110204','CHAMBARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','05','110205','COCHAS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','06','110206','COMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','07','110207','HEROINAS TOLEDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','08','110208','MANZANARES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','09','110209','MARISCAL CASTILLA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','10','110210','MATAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','11','110211','MITO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','12','110212','NUEVE DE JULIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','13','110213','ORCOTUNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','14','110214','SAN JOSE DE QUERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','02','15','110215','SANTA ROSA DE OCOPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','00','110300','JAUJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','01','110301','JAUJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','02','110302','ACOLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','03','110303','APATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','04','110304','ATAURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','05','110305','CANCHAYLLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','06','110306','CURICACA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','07','110307','EL MANTARO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','08','110308','HUAMALI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','09','110309','HUARIPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','10','110310','HUERTAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','11','110311','JANJAILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','12','110312','JULCAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','13','110313','LEONOR ORDONEZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','14','110314','LLOCLLAPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','15','110315','MARCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','16','110316','MASMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','17','110317','MASMA CHICCHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','18','110318','MOLINOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','19','110319','MONOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','20','110320','MUQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','21','110321','MUQUIYAUYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','22','110322','PACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','23','110323','PACCHA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','24','110324','PANCAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','25','110325','PARCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','26','110326','POMACANCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','27','110327','RICRAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','28','110328','SAN LORENZO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','29','110329','SAN PEDRO DE CHUNAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','30','110330','SAUSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','31','110331','SINCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','32','110332','TUNAN MARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','33','110333','YAULI.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','03','34','110334','YAUYOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','04','00','110400','JUNIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','04','01','110401','JUNIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','04','02','110402','CARHUAMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','04','03','110403','ONDORES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','04','04','110404','ULCUMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','00','110500','SATIPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','01','110501','SATIPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','02','110502','COVIRIALI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','03','110503','LLAYLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','04','110504','MAZAMARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','05','110505','PAMPA HERMOSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','06','110506','PANGOA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','07','110507','RIO NEGRO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','05','08','110508','RIO TAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','00','110600','TARMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','01','110601','TARMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','02','110602','ACOBAMBA..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','03','110603','HUARICOLCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','04','110604','HUASAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','05','110605','LA UNION.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','06','110606','PALCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','07','110607','PALCAMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','08','110608','SAN PEDRO DE CAJAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','06','09','110609','TAPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','00','110700','YAULI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','01','110701','LA OROYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','02','110702','CHACAPALPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','03','110703','HUAY-HUAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','04','110704','MARCAPOMACOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','05','110705','MOROCOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','06','110706','PACCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','07','110707','SANTA BARBARA D CARHUACAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','08','110708','SANTA ROSA DE SACCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','09','110709','SUITUCANCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','07','10','110710','YAULI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','08','00','110800','CHANCHAMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','08','01','110801','SAN RAMON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','08','02','110802','PERENE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','08','03','110803','CHANCHAMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','08','04','110804','PICHANAQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','08','05','110805','SAN LUIS DE SHUARO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','08','06','110806','VITOC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','09','00','110900','LA MERCED');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','09','01','110901','LA MERCED');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','00','111000','CHUPACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','01','111001','CHUPACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','02','111002','AHUAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','03','111003','CHONGOS BAJO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','04','111004','HUACHAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','05','111005','HUAMANCACA CHICO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','06','111006','SAN JUAN DE YSCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','07','111007','SAN JUAN DE JARPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','08','111008','3 DE DICIEMBRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('11','10','09','111009','YANACANCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','00','00','120000','LA LIBERTAD');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','00','120100','TRUJILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','01','120101','TRUJILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','02','120102','EL PORVENIR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','03','120103','FLORENCIA DE MORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','04','120104','HUANCHACO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','05','120105','LA ESPERANZA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','06','120106','LAREDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','07','120107','MOCHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','08','120108','POROTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','09','120109','SALAVERRY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','10','120110','SIMBAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','11','120111','VICTOR LARCO HERRERA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','01','12','120112','VISTA ALEGRE..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','02','00','120200','BOLIVAR.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','02','01','120201','BOLIVAR.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','02','02','120202','BAMBAMARCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','02','03','120203','CONDORMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','02','04','120204','LONGOTEA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','02','05','120205','UCHUMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','02','06','120206','UCUNCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','00','120400','OTUZCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','01','120401','OTUZCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','02','120402','AGALLPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','04','120404','CHARAT');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','05','120405','HUARANCHAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','06','120406','LA CUESTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','08','120408','MACHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','10','120410','PARANDAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','11','120411','SALPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','13','120413','SINSICAP');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','04','14','120414','USQUIL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','05','00','120500','PACASMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','05','01','120501','SAN PEDRO DE LLOC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','05','02','120502','GUADALUPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','05','03','120503','JEQUETEPEQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','05','04','120504','PACASMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','05','05','120505','SAN JOSE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','00','120600','PATAZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','01','120601','TAYABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','02','120602','BULDIBUYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','03','120603','CHILLIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','04','120604','HUANCASPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','05','120605','HUAYLILLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','06','120606','HUAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','07','120607','ONGON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','08','120608','PARCOY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','09','120609','PATAZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','10','120610','PIAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','11','120611','SANTIAGO DE CHALLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','12','120612','TAURIJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','06','13','120613','URPAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','00','120700','SANTIAGO DE CHUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','01','120701','SANTIAGO DE CHUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','02','120702','ANGASMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','03','120703','CACHICADAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','04','120704','MOLLEBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','05','120705','MOLLEPATA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','06','120706','QUIRUVILCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','07','120707','SANTA CRUZ DE CHUCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','07','08','120708','SITABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','08','00','120800','ASCOPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','08','01','120801','ASCOPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','08','02','120802','CHICAMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','08','03','120803','CHOCOPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','08','04','120804','MAGDALENA DE CAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','08','05','120805','PAIJAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','08','06','120806','RAZURI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','08','07','120807','SANTIAGO DE CAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','09','00','120900','CHEPEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','09','01','120901','CHEPEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','09','02','120902','PACANGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','09','03','120903','PUEBLO NUEVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','10','00','121000','JULCAN.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','10','01','121001','JULCAN.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','10','02','121002','CALAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','10','03','121003','CARABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','10','04','121004','HUASO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','00','121100','SANCHEZ CARRION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','01','121101','HUAMACHUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','02','121102','CHUGAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','03','121103','COCHORCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','04','121104','CURGOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','05','121105','MARCABAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','06','121106','SANAGORAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','07','121107','SARIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','11','08','121108','SARTIMBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','12','00','121200','GRAN CHIMU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','12','01','121201','CASCAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','12','02','121202','LUCMA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','12','03','121203','MARMOT');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','12','04','121204','SAYAPULLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','13','00','121300','VIRU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','13','01','121301','VIRU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','13','02','121302','CHAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('12','13','03','121303','GUADALUPITO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','00','00','130000','LAMBAYEQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','00','130100','CHICLAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','01','130101','CHICLAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','02','130102','CHONGOYAPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','03','130103','ETEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','04','130104','ETEN PUERTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','05','130105','JOSE LEONARDO ORTIZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','06','130106','LA VICTORIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','07','130107','LAGUNAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','08','130108','MONSEFU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','09','130109','NUEVA ARICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','10','130110','OYOTUN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','11','130111','PICSI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','12','130112','PIMENTEL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','13','130113','REQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','14','130114','SANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','01','15','130115','SANTA ROSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','00','130200','LAMBAYEQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','01','130201','LAMBAYEQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','02','130202','CHOCHOPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','03','130203','ILLIMO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','04','130204','JAYANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','05','130205','MOCHUMI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','06','130206','MORROPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','07','130207','MOTUPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','08','130208','OLMOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','09','130209','PACORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','10','130210','SALAS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','11','130211','SAN JOSE.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','02','12','130212','TUCUME');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','03','00','130300','FERRENAFE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','03','01','130301','FERRENAFE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','03','02','130302','CANARIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','03','03','130303','INCAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','03','04','130304','MANUEL A MESONES MURO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','03','05','130305','PITIPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('13','03','06','130306','PUEBLO NUEVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','00','00','140000','LIMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','00','140100','LIMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','01','140101','CERCADO DE LIMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','02','140102','ANCON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','03','140103','ATE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','04','140104','BARRANCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','05','140105','BRENA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','06','140106','CARABAYLLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','07','140107','COMAS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','08','140108','CHACLACAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','09','140109','CHORRILLOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','10','140110','EL AGUSTINO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','11','140111','JESUS MARIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','12','140112','LA MOLINA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','13','140113','LA VICTORIA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','14','140114','LINCE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','15','140115','LURIGANCHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','16','140116','LURIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','17','140117','MAGDALENA DEL MAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','18','140118','MIRAFLORES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','19','140119','PACHACAMAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','20','140120','PUCUSANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','21','140121','PUEBLO LIBRE.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','22','140122','PUENTE PIEDRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','23','140123','PUNTA NEGRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','24','140124','PUNTA HERMOSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','25','140125','RIMAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','26','140126','SAN BARTOLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','27','140127','SAN ISIDRO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','28','140128','INDEPENDENCIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','29','140129','SAN JUAN DE MIRAFLORES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','30','140130','SAN LUIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','31','140131','SAN MARTIN DE PORRES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','32','140132','SAN MIGUEL..');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','33','140133','SANTIAGO DE SURCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','34','140134','SURQUILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','35','140135','VILLA MARIA DEL TRIUNFO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','36','140136','SAN JUAN DE LURIGANCHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','37','140137','SANTA MARIA DEL MAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','38','140138','SANTA ROSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','40','140140','CIENEGUILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','41','140141','SAN BORJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','42','140142','VILLA EL SALVADOR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','43','140143','LOS OLIVOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','01','73','140173','SANTA ANITA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','02','00','140200','CAJATAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','02','01','140201','CAJATAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','02','02','140202','COPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','02','03','140203','GORGOR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','02','04','140204','HUANCAPON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','02','05','140205','MANAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','03','00','140300','CANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','03','01','140301','CANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','03','02','140302','ARAHUAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','03','03','140303','HUAMANTANGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','03','04','140304','HUAROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','03','05','140305','LACHAQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','03','06','140306','SAN BUENAVENTURA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','03','07','140307','SANTA ROSA DE QUIVES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','00','140400','CANETE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','01','140401','SAN VICENTE DE CANETE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','02','140402','ASIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','03','140403','CALANGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','04','140404','CERRO AZUL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','05','140405','CHILCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','06','140406','COAYLLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','07','140407','IMPERIAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','08','140408','LUNAHUANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','09','140409','MALA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','10','140410','NUEVO IMPERIAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','11','140411','PACARAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','12','140412','QUILMANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','13','140413','SAN ANTONIO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','14','140414','SAN LUIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','15','140415','SANTA CRUZ DE FLORES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','04','16','140416','ZUNIGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','00','140500','HUAURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','01','140501','HUAURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','02','140502','HUACHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','03','140503','AMBAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','04','140504','CALETA DE CARQUIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','05','140505','CHECRAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','06','140506','HUALMAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','07','140507','LEONCIO PRADO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','08','140508','PACCHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','09','140509','SANTA LEONOR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','10','140510','SANTA MARIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','11','140511','SAYAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','05','12','140512','VEGUETA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','00','140600','HUAROCHIRI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','01','140601','HUAROCHIRI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','02','140602','SANTA EULALIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','03','140603','MATUCANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','04','140604','ANTIOQUIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','05','140605','CALLAHUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','06','140606','CARAMPOMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','07','140607','CHICLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','08','140608','CUENCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','09','140609','HUACHUPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','10','140610','HUANZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','11','140611','LAHUAYTAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','12','140612','LANGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','13','140613','LARAOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','14','140614','MARIATANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','15','140615','RICARDO PALMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','16','140616','SAN ANDRES DE TUPICOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','17','140617','SAN ANTONIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','18','140618','SAN BARTOLOME');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','19','140619','SAN DAMIAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','20','140620','SAN JUAN DE IRIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','21','140621','SAN JUAN DE TANTARANCHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','22','140622','SAN LORENZO DE QUINTI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','23','140623','SAN MATEO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','24','140624','SAN MATEO DE OTAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','25','140625','SAN PEDRO DE CASTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','26','140626','SAN PEDRO DE HUANCAYRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','27','140627','SANGALLAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','28','140628','SANTA CRUZ DE COCACHACRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','29','140629','SANTIAGO DE ANCHUCAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','30','140630','SANTIAGO DE TUNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','31','140631','SANTO DGO DE LOS OLLEROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','06','32','140632','SURCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','00','140700','YAUYOS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','01','140701','YAUYOS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','02','140702','ALIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','03','140703','AYAUCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','04','140704','AYAVIRI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','05','140705','AZANGARO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','06','140706','CACRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','07','140707','CARANIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','08','140708','CATAHUASI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','09','140709','CHOCOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','10','140710','COCHAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','11','140711','COLONIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','12','140712','HONGOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','13','140713','HUAMPARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','14','140714','HUANCAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','15','140715','HUANEC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','16','140716','HUANGASCAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','17','140717','HUANTAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','18','140718','LARAOS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','19','140719','LINCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','20','140720','MADEAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','21','140721','MIRAFLORES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','22','140722','OMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','23','140723','PUTINZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','24','140724','QUINCHES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','25','140725','QUINOCAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','26','140726','SAN JOAQUIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','27','140727','SAN PEDRO DE PILAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','28','140728','TANTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','29','140729','TAURIPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','30','140730','TOMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','31','140731','TUPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','32','140732','VINAC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','07','33','140733','VITIS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','00','140800','HUARAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','01','140801','HUARAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','02','140802','CHANCAY.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','03','140803','ATAVILLOS ALTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','04','140804','ATAVILLOS BAJO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','05','140805','AUCALLAMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','06','140806','IHUARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','07','140807','LAMPIAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','08','140808','PACARAOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','09','140809','SAN MIGUEL DE ACOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','10','140810','SANTA CRUZ DE ANDAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','11','140811','SUMBILCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','08','12','140812','VEINTISIETE DE NOVIEMBRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','09','00','140900','CALLAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','09','01','140901','CALLAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','09','02','140902','BELLAVISTA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','09','03','140903','CARMEN DE LA LEGUA REYNOSO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','09','04','140904','LA PERLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','09','05','140905','LA PUNTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','09','07','140907','VENTANILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','10','00','141000','BARRANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','10','01','141001','BARRANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','10','02','141002','PARAMONGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','10','03','141003','PATIVILCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','10','04','141004','SUPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','10','05','141005','SUPE PUERTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','11','00','141100','OYON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','11','01','141101','OYON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','11','02','141102','ANDAJES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','11','03','141103','CAUJUL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','11','04','141104','COCHAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','11','05','141105','NAVAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('14','11','06','141106','PACHANGARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','00','00','150000','LORETO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','00','150100','MAYNAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','01','150101','IQUITOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','02','150102','ALTO NANAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','03','150103','FERNANDO LORES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','04','150104','INDIANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','05','150105','LAS AMAZONAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','06','150106','MAZAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','07','150107','NAPO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','08','150108','PUNCHANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','09','150109','PUTUMAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','10','150110','TORRES CAUSANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','01','11','150111','YAQUERANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','00','150200','ALTO AMAZONAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','01','150201','YURIMAGUAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','02','150202','BALSAPUERTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','03','150203','BARRANCA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','04','150204','CAHUAPANAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','05','150205','JEBEROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','06','150206','LAGUNAS.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','07','150207','MANSERICHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','08','150208','MORONA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','09','150209','PASTAZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','10','150210','SANTA CRUZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','02','11','150211','TNTE CESAR LOPEZ ROJAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','04','00','150400','LORETO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','04','09','150409','NAUTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','04','10','150410','PARINARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','04','11','150411','TIGRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','04','12','150412','TROMPETEROS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','04','13','150413','URARINAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','00','150500','REQUENA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','01','150501','REQUENA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','02','150502','ALTO TAPICHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','03','150503','CAPELO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','04','150504','EMILIO SAN MARTIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','05','150505','MAQUIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','06','150506','PUINAHUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','07','150507','SAQUENA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','08','150508','SOPLIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','09','150509','TAPICHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','05','10','150510','JENARO HERRERA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','06','00','150600','UCAYALI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','06','01','150601','CONTAMANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','06','02','150602','INAHUAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','06','03','150603','PADRE MARQUEZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','06','04','150604','PAMPA HERMOSA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','06','05','150605','SARAYACU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','06','06','150606','VARGAS GUERRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','07','00','150700','MARISCAL RAMON CASTILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','07','01','150701','RAMON CASTILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','07','02','150702','PEBAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','07','03','150703','YAVARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('15','07','04','150704','SAN PABLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','00','00','160000','MADRE DE DIOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','02','00','160200','MANU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','02','01','160201','MANU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','02','02','160202','FITZCARRALD');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','02','03','160203','MADRE DE DIOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','03','00','160300','TAHUAMANU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','03','01','160301','INAPARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','03','02','160302','IBERIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','03','03','160303','TAHUAMANU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','04','00','160400','TAMBOPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','04','01','160401','TAMBOPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','04','02','160402','INAMBARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','04','03','160403','LAS PIEDRAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('16','04','04','160404','LABERINTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','00','00','170000','MOQUEGUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','01','00','170100','MARISCAL NIETO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','01','01','170101','MOQUEGUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','01','02','170102','CARUMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','01','03','170103','CUCHUMBAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','01','04','170104','SAMEGUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','01','05','170105','SAN CRISTOBAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','01','06','170106','TORATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','00','170200','GRAL SANCHEZ CERRO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','01','170201','OMATE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','02','170202','CHOJATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','03','170203','COALAQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','04','170204','ICHUNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','05','170205','LA CAPILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','06','170206','LLOQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','07','170207','MATALAQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','08','170208','PUQUINA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','09','170209','QUINISTAQUILLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','10','170210','UBINAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','02','11','170211','YUNGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','03','00','170300','ILO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','03','01','170301','ILO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','03','02','170302','EL ALGARROBAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('17','03','03','170303','PACOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','00','00','180000','PASCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','00','180100','PASCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','01','180101','CERRO DE PASCO/CHAUPIMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','02','180102','HUACHON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','03','180103','HUARIACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','04','180104','HUAYLLAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','05','180105','NINACACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','06','180106','PALLANCHACRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','07','180107','PAUCARTAMBO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','08','180108','S FCO D ASIS D YARUSYACAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','09','180109','SIMON BOLIVAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','10','180110','TICLACAYAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','11','180111','TINYAHUARCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','12','180112','VICCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','01','13','180113','YANACANCHA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','00','180200','DANIEL ALCIDES CARRION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','01','180201','YANAHUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','02','180202','CHACAYAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','03','180203','GOYLLARISQUIZGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','04','180204','PAUCAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','05','180205','SAN PEDRO DE PILLAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','06','180206','SANTA ANA DE TUSI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','07','180207','TAPUC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','02','08','180208','VILCABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','03','00','180300','OXAPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','03','01','180301','OXAPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','03','02','180302','CHONTABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','03','03','180303','HUANCABAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','03','04','180304','PALCAZU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','03','05','180305','POZUZO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','03','06','180306','PUERTO BERMUDEZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('18','03','07','180307','VILLA RICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','00','00','190000','PIURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','00','190100','PIURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','01','190101','PIURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','02','190102','CASTILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','03','190103','CATACAOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','04','190104','CURA MORI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','05','190105','EL TALLAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','06','190106','LA ARENA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','07','190107','LA UNION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','08','190108','LAS LOMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','01','09','190109','TAMBO GRANDE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','00','190200','AYABACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','01','190201','AYABACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','02','190202','FRIAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','03','190203','JILILI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','04','190204','LAGUNAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','05','190205','MONTERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','06','190206','PACAIPAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','07','190207','PAIMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','08','190208','SAPILLICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','09','190209','SICCHEZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','02','10','190210','SUYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','00','190300','HUANCABAMBA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','01','190301','HUANCABAMBA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','02','190302','CANCHAQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','03','190303','EL CARMEN DE LA FRONTERA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','04','190304','HUARMACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','05','190305','LALAQUIZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','06','190306','SAN MIGUEL DE EL FAIQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','07','190307','SONDOR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','03','08','190308','SONDORILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','00','190400','MORROPON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','01','190401','CHULUCANAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','02','190402','BUENOS AIRES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','03','190403','CHALACO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','04','190404','LA MATANZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','05','190405','MORROPON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','06','190406','SALITRAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','07','190407','SAN JUAN DE BIGOTE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','08','190408','SANTA CATALINA DE MOSSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','09','190409','SANTO DOMINGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','04','10','190410','YAMANGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','05','00','190500','PAITA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','05','01','190501','PAITA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','05','02','190502','AMOTAPE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','05','03','190503','ARENAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','05','04','190504','COLAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','05','05','190505','LA HUACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','05','06','190506','TAMARINDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','05','07','190507','VICHAYAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','00','190600','SULLANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','01','190601','SULLANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','02','190602','BELLAVISTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','03','190603','IGNACIO ESCUDERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','04','190604','LANCONES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','05','190605','MARCAVELICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','06','190606','MIGUEL CHECA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','07','190607','QUERECOTILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','08','190608','SALITRAL.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','06','09','190609','BUENOS AIRES.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','07','00','190700','TALARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','07','01','190701','PARINAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','07','02','190702','EL ALTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','07','03','190703','LA BREA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','07','04','190704','LOBITOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','07','05','190705','LOS ORGANOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','07','06','190706','MANCORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','07','07','190707','TALARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','08','00','190800','SECHURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','08','01','190801','SECHURA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','08','02','190802','BELLAVISTA DE LA UNION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','08','03','190803','BERNAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','08','04','190804','CRISTO NOS VALGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','08','05','190805','VICE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('19','08','06','190806','RINCONADA LLICUAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','04','200204','ASILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','05','200205','CAMINACA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','06','200206','CHUPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','07','200207','JOSE DMGO CHOQUEHUANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','08','200208','MUNANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','09','200209','POTONI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','10','200210','SAMAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','11','200211','SAN ANTON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','12','200212','SAN JOSE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','13','200213','SAN JUAN DE SALINAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','14','200214','SANTIAGO DE PUPUJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','15','200215','TIRAPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','00','200300','CARABAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','01','200301','MACUSANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','02','200302','AJOYANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','03','200303','AYAPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','04','200304','COASA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','05','200305','CORANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','06','200306','CRUCERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','07','200307','ITUATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','08','200308','OLLACHEA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','09','200309','SAN GABAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','03','10','200310','USICAYOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','00','200400','CHUCUITO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','01','200401','JULI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','02','200402','CAPASO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','03','200403','DESAGUADERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','04','200404','HUACULLANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','06','200406','KELLUYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','08','200408','PISACOMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','09','200409','POMATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','04','11','200411','ZEPITA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','00','200500','HUANCANE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','01','200501','HUANCANE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','02','200502','COJATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','04','200504','HUATASANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','05','200505','INCHUPALLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','06','200506','MOHO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','07','200507','PUSI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','08','200508','ROSASPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','09','200509','TARACO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','05','10','200510','VILQUE CHICO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','00','200600','LAMPA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','01','200601','LAMPA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','02','200602','CABANILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','03','200603','CALAPUJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','04','200604','NICASIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','05','200605','OCUVIRI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','06','200606','PALCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','07','200607','PARATIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','08','200608','PUCARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','09','200609','SANTA LUCIA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','06','10','200610','VILAVILA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','00','200700','SANDIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','01','200701','SANDIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','02','200702','CUYOCUYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','03','200703','LIMBANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','04','200704','PATAMBUCO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','05','200705','PHARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','06','200706','QUIACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','07','200707','SAN JUAN DEL ORO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','08','200708','YANAHUAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','07','09','200709','ALTO INAMBARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','08','00','200800','SAN ROMAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','08','01','200801','JULIACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','08','02','200802','CABANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','08','03','200803','CABANILLAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','08','04','200804','CARACOTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','00','201300','MELGAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','01','201301','AYAVIRI.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','02','201302','ANTAUTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','03','201303','CUPI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','04','201304','LLALLI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','05','201305','MACARI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','06','201306','NUNOA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','07','201307','ORURILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','08','201308','SANTA ROSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','13','09','201309','UMACHIRI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','14','00','201400','SAN ANTONIO DE PUTINA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','14','01','201401','PUTINA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','14','02','201402','ANANEA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','14','03','201403','PEDRO VILCA APAZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','14','04','201404','QUILCAPUNCU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','14','05','201405','SINA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','15','00','201500','YUNGUYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','15','01','201501','YUNGUYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','15','02','201502','ANAPIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','15','03','201503','COPANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','15','04','201504','CUTURAPI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','15','05','201505','OLLARAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','15','06','201506','TINICACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','15','07','201507','UNICACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','16','00','201600','EL COLLAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','16','01','201601','ILAVE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','16','02','201602','CAPASO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','16','03','201603','PILCUYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','16','04','201604','SANTA ROSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','16','05','201605','CONDURIRI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','17','00','201700','MOHO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','17','01','201701','MOHO.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','17','02','201702','CONIMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','17','03','201703','HUAYRAPATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','17','04','201704','TILALI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','00','00','200000','PUNO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','00','200100','PUNO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','01','200101','PUNO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','02','200102','ACORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','03','200103','AMANTANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','04','200104','ATUNCOLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','05','200105','CAPACHICA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','06','200106','CHUCUITO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','07','200107','COATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','08','200108','HUATA.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','09','200109','MANAZO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','10','200110','PAUCARCOLLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','11','200111','PICHACANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','12','200112','PLATERIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','13','200113','SAN ANTONIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','14','200114','TIQUILLACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','01','15','200115','VILQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','00','200200','AZANGARO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','01','200201','AZANGARO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','02','200202','ACHAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('20','02','03','200203','ARAPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','00','00','210000','SAN MARTIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','01','00','210100','MOYOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','01','01','210101','MOYOBAMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','01','02','210102','CALZADA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','01','03','210103','HABANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','01','04','210104','JEPELACIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','01','05','210105','SORITOR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','01','06','210106','YANTALO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','00','210300','LAMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','01','210301','LAMAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','03','210303','ALONSO DE ALVARADO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','04','210304','BARRANQUITA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','05','210305','CAYNARACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','06','210306','CUNUMBUQUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','07','210307','PINTO RECODO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','08','210308','RUMISAPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','10','210310','SAN ROQUE DE CUMBAZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','12','210312','SHANAO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','14','210314','TABALOSOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','03','15','210315','ZAPATERO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','04','00','210400','MARISCAL CACERES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','04','01','210401','JUANJUI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','04','02','210402','CAMPANILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','04','03','210403','HUICUNGO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','04','04','210404','PACHIZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','04','05','210405','PAJARILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','00','210500','RIOJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','01','210501','RIOJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','02','210502','AWAJUN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','03','210503','ELIAS SOPLIN VARGAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','04','210504','NUEVA CAJAMARCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','05','210505','PARDO MIGUEL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','06','210506','POSIC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','07','210507','SAN FERNANDO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','08','210508','YORONGOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','05','09','210509','YURACYACU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','00','210600','SAN MARTIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','01','210601','TARAPOTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','02','210602','ALBERTO LEVEAU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','03','210603','CACATACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','04','210604','CHAZUTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','05','210605','CHIPURANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','06','210606','EL PORVENIR.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','07','210607','HUIMBAYOC');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','08','210608','JUAN GUERRA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','09','210609','LA BANDA DE SHILCAYO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','10','210610','MORALES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','11','210611','PAPAPLAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','12','210612','SAN ANTONIO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','13','210613','SAUCE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','06','14','210614','SHAPAJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','07','00','210700','BELLAVISTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','07','01','210701','BELLAVISTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','07','02','210702','ALTO BIAVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','07','03','210703','BAJO BIAVO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','07','04','210704','HUALLAGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','07','05','210705','SAN PABLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','07','06','210706','SAN RAFAEL.');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','08','00','210800','HUALLAGA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','08','01','210801','SAPOSOA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','08','02','210802','ALTO SAPOSOA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','08','03','210803','EL ESLABON');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','08','04','210804','PISCOYACU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','08','05','210805','SACANCHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','08','06','210806','TINGO DE SAPOSOA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','00','210900','PICOTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','01','210901','PICOTA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','02','210902','BUENOS AIRES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','03','210903','CASPISAPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','04','210904','PILLUANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','05','210905','PUCACACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','06','210906','SAN CRISTOBAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','07','210907','SAN HILARION');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','08','210908','SHAMBOYACU');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','09','210909','TINGO DE PONASA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','09','10','210910','TRES UNIDOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','10','00','211000','EL DORADO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','10','01','211001','EL DORADO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','10','02','211002','SAN JOSE DE SISA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','10','03','211003','AGUA BLANCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','10','04','211004','SAN MARTIN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','10','05','211005','SANTA ROSA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','10','06','211006','SHATOJA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','11','00','211100','TOCACHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','11','01','211101','TOCACHE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','11','02','211102','NUEVO PROGRESO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','11','03','211103','POLVORA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','11','04','211104','SHUNTE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('21','11','05','211105','UCHIZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','00','00','220000','TACNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','00','220100','TACNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','01','220101','TACNA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','02','220102','ALTO DE LA ALIANZA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','03','220103','CALANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','04','220104','INCLAN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','05','220105','PACHIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','06','220106','PALCA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','07','220107','POCOLLAY');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','08','220108','SAMA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','01','09','220109','CIUDAD NUEVA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','00','220200','TARATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','01','220201','TARATA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','02','220202','CHUCATAMANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','03','220203','ESTIQUE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','04','220204','ESTIQUE-PAMPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','05','220205','SITAJARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','06','220206','SUSAPAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','07','220207','TARUCACHI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','02','08','220208','TICACO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','03','00','220300','CANDARAVE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','03','01','220301','CANDARAVE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','03','02','220302','CAIRANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','03','03','220303','CAMILACA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','03','04','220304','CURIBAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','03','05','220305','HUANUARA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','03','06','220306','QUILAHUANI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','04','00','220400','JORGE BASADRE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','04','01','220401','LOCUMBA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','04','02','220402','ILABAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('22','04','03','220403','ITE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','00','00','230000','TUMBES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','01','00','230100','TUMBES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','01','01','230101','TUMBES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','01','02','230102','CORRALES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','01','03','230103','LA CRUZ');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','01','04','230104','PAMPAS DE HOSPITAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','01','05','230105','SAN JACINTO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','01','06','230106','SAN JUAN DE LA VIRGEN');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','02','00','230200','CONTRALMIRANTE VILLAR');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','02','01','230201','ZORRITOS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','02','02','230202','CASITAS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','03','00','230300','ZARUMILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','03','01','230301','ZARUMILLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','03','02','230302','AGUAS VERDES');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','03','03','230303','MATAPALO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('23','03','04','230304','PAPAYAL');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','00','00','240000','UCAYALI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','01','00','240100','ATALAYA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','01','01','240101','RAYMONDI');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','01','02','240102','SEPAHUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','01','03','240103','TAHUANIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','01','04','240104','YURUA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','02','00','240200','CORONEL PORTILLO');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','02','01','240201','PUCALLPA/CALLERIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','02','02','240202','CAMPOVERDE');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','02','03','240203','IPARIA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','02','04','240204','MASISEA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','02','05','240205','YARINACOCHA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','02','06','240206','NUEVA REQUENA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','03','00','240300','PADRE ABAD');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','03','01','240301','PADRE ABAD');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','03','02','240302','IRAZOLA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','03','03','240303','CURIMANA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','04','00','240400','PURUS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','04','01','240401','PURUS');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','05','00','240500','PUCALLPA');
+INSERT INTO UBIGEO (UBIGEO_DEPARTAMENTO,UBIGEO_PROVINCIA,UBIGEO_DISTRITO,UBIGEO,DENOMINACION) VALUES ('24','05','01','240501','PUCALLPA');

@@ -24,7 +24,7 @@ import org.sistcoop.ubigeo.models.search.filters.UbigeoFilterProvider;
 @Stateless
 @Local(UbigeoProvider.class)
 @TransactionAttribute(TransactionAttributeType.REQUIRED)
-public class JpaUbigeoProvider extends AbstractJpaStorage implements UbigeoProvider {
+public class JpaUbigeoProvider extends AbstractHibernateStorage implements UbigeoProvider {
 
     @PersistenceContext
     private EntityManager em;
@@ -103,7 +103,7 @@ public class JpaUbigeoProvider extends AbstractJpaStorage implements UbigeoProvi
 
     @Override
     public SearchResultsModel<UbigeoModel> search(SearchCriteriaModel criteria, String filterText) {
-        SearchResultsModel<UbigeoEntity> entityResult = find(criteria, UbigeoEntity.class, filterText,
+        SearchResultsModel<UbigeoEntity> entityResult = findFullText(criteria, UbigeoEntity.class, filterText,
                 filterProvider.getUbigeoFilter(), filterProvider.getUbigeoDepartamentoFilter(),
                 filterProvider.getUbigeoProvinciaFilter(), filterProvider.getUbigeoDistritoFilter(),
                 filterProvider.getDenominacionFilter());
