@@ -12,16 +12,10 @@ import javax.validation.constraints.Size;
 
 import org.hibernate.annotations.NamedQueries;
 import org.hibernate.annotations.NamedQuery;
-import org.hibernate.search.annotations.Analyze;
-import org.hibernate.search.annotations.Field;
-import org.hibernate.search.annotations.Index;
-import org.hibernate.search.annotations.Indexed;
-import org.hibernate.search.annotations.Store;
 import org.hibernate.validator.constraints.NotBlank;
 
 @Cacheable
 @Entity
-@Indexed
 @Table(name = "UBIGEO")
 @NamedQueries({ @NamedQuery(name = "UbigeoEntity.findAll", query = "Select u from UbigeoEntity u") })
 public class UbigeoEntity implements Serializable {
@@ -53,7 +47,6 @@ public class UbigeoEntity implements Serializable {
     @NotNull
     @Size(min = 1, max = 200)
     @NotBlank
-    @Field(index = Index.YES, analyze = Analyze.YES, store = Store.NO)
     @Column(name = "DENOMINACION")
     public String getDenominacion() {
         return denominacion;
@@ -66,7 +59,6 @@ public class UbigeoEntity implements Serializable {
     @NotNull
     @Size(min = 2, max = 2)
     @NotBlank
-    @Field(index = Index.YES, analyze = Analyze.YES, store = Store.NO)
     @Column(name = "UBIGEO_DEPARTAMENTO")
     public String getUbigeoDepartamento() {
         return ubigeoDepartamento;
@@ -79,7 +71,6 @@ public class UbigeoEntity implements Serializable {
     @NotNull
     @Size(min = 2, max = 2)
     @NotBlank
-    @Field(index = Index.YES, analyze = Analyze.YES, store = Store.NO)
     @Column(name = "UBIGEO_PROVINCIA")
     public String getUbigeoProvincia() {
         return ubigeoProvincia;
@@ -92,7 +83,6 @@ public class UbigeoEntity implements Serializable {
     @NotNull
     @Size(min = 2, max = 2)
     @NotBlank
-    @Field(index = Index.YES, analyze = Analyze.YES, store = Store.NO)
     @Column(name = "UBIGEO_DISTRITO")
     public String getUbigeoDistrito() {
         return ubigeoDistrito;

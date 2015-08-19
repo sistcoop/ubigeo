@@ -2,7 +2,6 @@ package org.sistcoop.ubigeo.admin.client.resource;
 
 import javax.ejb.EJBException;
 import javax.ws.rs.Consumes;
-import javax.ws.rs.DefaultValue;
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
@@ -12,7 +11,6 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import org.hibernate.validator.constraints.NotBlank;
 import org.sistcoop.ubigeo.representations.idm.UbigeoRepresentation;
 import org.sistcoop.ubigeo.representations.idm.search.SearchResultsRepresentation;
 
@@ -52,22 +50,6 @@ public interface UbigeosResource {
      *            Numero de pagina.
      * @param pageSize
      *            Tamano de pagina.
-     * @statuscode 200 Si la busqueda fue exitosa.
-     * @return SearchResultsRepresentation resultado de busqueda.
-     * @throws EJBException
-     *             datos validos pero ocurrio un error interno
-     */
-    @GET
-    @Produces(MediaType.APPLICATION_JSON)
-    public SearchResultsRepresentation<UbigeoRepresentation> search(
-            @QueryParam("filterText") @NotBlank String filterText,
-            @QueryParam("page") @DefaultValue("1") int page,
-            @QueryParam("pageSize") @DefaultValue("20") int pageSize);
-
-    /**
-     * Buscar ubigeos segun el ubigeo padre.
-     * 
-     * @summary Buscar ubigeos
      * @statuscode 200 Si la busqueda fue exitosa.
      * @return SearchResultsRepresentation resultado de busqueda.
      * @throws EJBException

@@ -55,41 +55,32 @@ public class UbigeosResourceImpl implements UbigeosResource {
     }
 
     @Override
-    public SearchResultsRepresentation<UbigeoRepresentation> search(String filterText, int page, int pageSize) {
-        PagingModel paging = new PagingModel();
-        paging.setPage(page);
-        paging.setPageSize(pageSize);
-
-        SearchCriteriaModel searchCriteriaBean = new SearchCriteriaModel();
-        searchCriteriaBean.setPaging(paging);
-        searchCriteriaBean.addOrder(filterProvider.getUbigeoFilter(), true);
-
-        // search
-        SearchResultsModel<UbigeoModel> results = ubigeoProvider.search(searchCriteriaBean, filterText);
-        SearchResultsRepresentation<UbigeoRepresentation> rep = new SearchResultsRepresentation<>();
-        List<UbigeoRepresentation> representations = new ArrayList<>();
-        for (UbigeoModel model : results.getModels()) {
-            representations.add(ModelToRepresentation.toRepresentation(model));
-        }
-        rep.setTotalSize(results.getTotalSize());
-        rep.setItems(representations);
-        return rep;
-    }
-
-    @Override
     public SearchResultsRepresentation<UbigeoRepresentation> search(String ubigeo) {
         SearchCriteriaModel searchCriteriaBean = new SearchCriteriaModel();
         searchCriteriaBean.addOrder(filterProvider.getUbigeoFilter(), true);
 
-        if (ubigeo != null) {
+        PagingModel paging = new PagingModel();
+        paging.setPage(1);
+        paging.setPageSize(100);
+        searchCriteriaBean.setPaging(paging);
+
+        if (ubigeo != null && !ubigeo.isEmpty()) {
             if (ubigeo.length() == 2) {
                 searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(), ubigeo,
+                        SearchCriteriaFilterOperator.eq);
+
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoProvinciaFilter(), "00",
+                        SearchCriteriaFilterOperator.neq);
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoDistritoFilter(), "00",
                         SearchCriteriaFilterOperator.eq);
             } else if (ubigeo.length() == 4) {
                 searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(),
                         ubigeo.substring(0, 2), SearchCriteriaFilterOperator.eq);
                 searchCriteriaBean.addFilter(filterProvider.getUbigeoProvinciaFilter(),
                         ubigeo.substring(2, 4), SearchCriteriaFilterOperator.eq);
+
+                searchCriteriaBean.addFilter(filterProvider.getUbigeoDistritoFilter(), "00",
+                        SearchCriteriaFilterOperator.neq);
             } else if (ubigeo.length() == 6) {
                 searchCriteriaBean.addFilter(filterProvider.getUbigeoDepartamentoFilter(),
                         ubigeo.substring(0, 2), SearchCriteriaFilterOperator.eq);
@@ -98,10 +89,16 @@ public class UbigeosResourceImpl implements UbigeosResource {
                 searchCriteriaBean.addFilter(filterProvider.getUbigeoDistritoFilter(),
                         ubigeo.substring(4, 6), SearchCriteriaFilterOperator.eq);
             }
+        } else {
+            searchCriteriaBean.addFilter(filterProvider.getUbigeoProvinciaFilter(), "00",
+                    SearchCriteriaFilterOperator.eq);
+            searchCriteriaBean.addFilter(filterProvider.getUbigeoDistritoFilter(), "00",
+                    SearchCriteriaFilterOperator.eq);
         }
 
         // search
         SearchResultsModel<UbigeoModel> results = ubigeoProvider.search(searchCriteriaBean);
+
         SearchResultsRepresentation<UbigeoRepresentation> rep = new SearchResultsRepresentation<>();
         List<UbigeoRepresentation> representations = new ArrayList<>();
         for (UbigeoModel model : results.getModels()) {
