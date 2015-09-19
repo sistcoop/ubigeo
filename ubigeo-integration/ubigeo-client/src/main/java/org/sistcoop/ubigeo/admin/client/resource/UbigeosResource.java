@@ -56,6 +56,7 @@ public interface UbigeosResource {
      *             datos validos pero ocurrio un error interno
      */
     @GET
+    @Path("search")
     @Produces(MediaType.APPLICATION_JSON)
     public SearchResultsRepresentation<UbigeoRepresentation> search(@QueryParam("ubigeo") String ubigeo);
 
